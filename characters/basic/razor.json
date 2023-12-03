@@ -1,0 +1,44 @@
+{
+  "id": 10000020,
+  "kid": "razor",
+  "name": "genshinimpact.characters.razor.name",
+  "title": "genshinimpact.characters.razor.title",
+  "description": "genshinimpact.characters.razor.description",
+  "rarity": 4,
+  "gender": "male",
+  "affiliation": "genshinimpact.characters.razor.affiliation",
+  "constllation": "genshinimpact.characters.razor.constllation",
+  "element": "electro",
+  "weapon": "claymore",
+  "birthday": "9/9",
+  "images": {
+    "card": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/card/razor.png",
+    "face": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/face/razor.png",
+    "side": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/side/razor.png",
+    "gacha_card": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/gacha/card/razor.png",
+    "gacha_splash": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/gacha/splash/razor.png"
+  },
+  "cv": {
+    "zh": "周帅",
+    "en": "",
+    "jp": "",
+    "kr": ""
+  },
+  "hp_base": 1002.9700927734375,
+  "attack_base": 19.58880043029785,
+  "defense_base": 62.9474983215332,
+  "sort_id": 19,
+  "release_date": "2020-09-15",
+  "name_card": {
+    "id": 210006,
+    "background": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/background/razor.png",
+    "profile": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/profile/razor.png",
+    "icon": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/icon/razor.png",
+    "name": "genshinimpact.characters.razor.name_card.name",
+    "description": "genshinimpact.characters.razor.name_card.description"
+  },
+  "food": {
+    "id": 108048,
+    "name": "genshinimpact.characters.razor.food.name"
+  }
+}

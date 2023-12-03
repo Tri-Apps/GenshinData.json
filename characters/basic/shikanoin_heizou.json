@@ -1,0 +1,44 @@
+{
+  "id": 10000059,
+  "kid": "shikanoin_heizou",
+  "name": "genshinimpact.characters.shikanoin_heizou.name",
+  "title": "genshinimpact.characters.shikanoin_heizou.title",
+  "description": "genshinimpact.characters.shikanoin_heizou.description",
+  "rarity": 4,
+  "gender": "male",
+  "affiliation": "genshinimpact.characters.shikanoin_heizou.affiliation",
+  "constllation": "genshinimpact.characters.shikanoin_heizou.constllation",
+  "element": "anemo",
+  "weapon": "catalyst",
+  "birthday": "7/24",
+  "images": {
+    "card": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/card/shikanoin_heizou.png",
+    "face": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/face/shikanoin_heizou.png",
+    "side": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/side/shikanoin_heizou.png",
+    "gacha_card": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/gacha/card/shikanoin_heizou.png",
+    "gacha_splash": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/gacha/splash/shikanoin_heizou.png"
+  },
+  "cv": {
+    "zh": "林景",
+    "en": "",
+    "jp": "",
+    "kr": ""
+  },
+  "hp_base": 893.55517578125,
+  "attack_base": 18.876480102539062,
+  "defense_base": 57.33945083618164,
+  "sort_id": 50,
+  "release_date": "2022-07-13",
+  "name_card": {
+    "id": 210122,
+    "background": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/background/shikanoin_heizou.png",
+    "profile": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/profile/shikanoin_heizou.png",
+    "icon": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/icon/shikanoin_heizou.png",
+    "name": "genshinimpact.characters.shikanoin_heizou.name_card.name",
+    "description": "genshinimpact.characters.shikanoin_heizou.name_card.description"
+  },
+  "food": {
+    "id": 108390,
+    "name": "genshinimpact.characters.shikanoin_heizou.food.name"
+  }
+}

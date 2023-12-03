@@ -1,0 +1,44 @@
+{
+  "id": 10000054,
+  "kid": "sangonomiya_kokomi",
+  "name": "genshinimpact.characters.sangonomiya_kokomi.name",
+  "title": "genshinimpact.characters.sangonomiya_kokomi.title",
+  "description": "genshinimpact.characters.sangonomiya_kokomi.description",
+  "rarity": 5,
+  "gender": "female",
+  "affiliation": "genshinimpact.characters.sangonomiya_kokomi.affiliation",
+  "constllation": "genshinimpact.characters.sangonomiya_kokomi.constllation",
+  "element": "hydro",
+  "weapon": "catalyst",
+  "birthday": "2/22",
+  "images": {
+    "card": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/card/sangonomiya_kokomi.png",
+    "face": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/face/sangonomiya_kokomi.png",
+    "side": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/side/sangonomiya_kokomi.png",
+    "gacha_card": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/gacha/card/sangonomiya_kokomi.png",
+    "gacha_splash": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/gacha/splash/sangonomiya_kokomi.png"
+  },
+  "cv": {
+    "zh": "龟娘",
+    "en": "",
+    "jp": "",
+    "kr": ""
+  },
+  "hp_base": 1048.6519775390625,
+  "attack_base": 18.247600555419922,
+  "defense_base": 51.1546516418457,
+  "sort_id": 40,
+  "release_date": "2021-09-21",
+  "name_card": {
+    "id": 210093,
+    "background": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/background/sangonomiya_kokomi.png",
+    "profile": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/profile/sangonomiya_kokomi.png",
+    "icon": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/icon/sangonomiya_kokomi.png",
+    "name": "genshinimpact.characters.sangonomiya_kokomi.name_card.name",
+    "description": "genshinimpact.characters.sangonomiya_kokomi.name_card.description"
+  },
+  "food": {
+    "id": 108340,
+    "name": "genshinimpact.characters.sangonomiya_kokomi.food.name"
+  }
+}

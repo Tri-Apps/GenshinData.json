@@ -1,0 +1,44 @@
+{
+  "id": 10000033,
+  "kid": "tartaglia",
+  "name": "genshinimpact.characters.tartaglia.name",
+  "title": "genshinimpact.characters.tartaglia.title",
+  "description": "genshinimpact.characters.tartaglia.description",
+  "rarity": 5,
+  "gender": "male",
+  "affiliation": "genshinimpact.characters.tartaglia.affiliation",
+  "constllation": "genshinimpact.characters.tartaglia.constllation",
+  "element": "hydro",
+  "weapon": "bow",
+  "birthday": "7/20",
+  "images": {
+    "card": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/card/tartaglia.png",
+    "face": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/face/tartaglia.png",
+    "side": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/side/tartaglia.png",
+    "gacha_card": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/gacha/card/tartaglia.png",
+    "gacha_splash": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/gacha/splash/tartaglia.png"
+  },
+  "cv": {
+    "zh": "鱼冻",
+    "en": "",
+    "jp": "",
+    "kr": ""
+  },
+  "hp_base": 1020.0524291992188,
+  "attack_base": 23.461200714111328,
+  "defense_base": 63.4197998046875,
+  "sort_id": 1,
+  "release_date": "2020-11-11",
+  "name_card": {
+    "id": 210046,
+    "background": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/background/tartaglia.png",
+    "profile": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/profile/tartaglia.png",
+    "icon": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/icon/tartaglia.png",
+    "name": "genshinimpact.characters.tartaglia.name_card.name",
+    "description": "genshinimpact.characters.tartaglia.name_card.description"
+  },
+  "food": {
+    "id": 108175,
+    "name": "genshinimpact.characters.tartaglia.food.name"
+  }
+}

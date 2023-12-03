@@ -1,0 +1,44 @@
+{
+  "id": 10000035,
+  "kid": "qiqi",
+  "name": "genshinimpact.characters.qiqi.name",
+  "title": "genshinimpact.characters.qiqi.title",
+  "description": "genshinimpact.characters.qiqi.description",
+  "rarity": 5,
+  "gender": "female",
+  "affiliation": "genshinimpact.characters.qiqi.affiliation",
+  "constllation": "genshinimpact.characters.qiqi.constllation",
+  "element": "cryo",
+  "weapon": "sword",
+  "birthday": "3/3",
+  "images": {
+    "card": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/card/qiqi.png",
+    "face": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/face/qiqi.png",
+    "side": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/side/qiqi.png",
+    "gacha_card": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/gacha/card/qiqi.png",
+    "gacha_splash": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/gacha/splash/qiqi.png"
+  },
+  "cv": {
+    "zh": "宴宁",
+    "en": "",
+    "jp": "",
+    "kr": ""
+  },
+  "hp_base": 962.8532104492188,
+  "attack_base": 22.3439998626709,
+  "defense_base": 71.7959976196289,
+  "sort_id": 7,
+  "release_date": "2020-09-15",
+  "name_card": {
+    "id": 210019,
+    "background": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/background/qiqi.png",
+    "profile": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/profile/qiqi.png",
+    "icon": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/icon/qiqi.png",
+    "name": "genshinimpact.characters.qiqi.name_card.name",
+    "description": "genshinimpact.characters.qiqi.name_card.description"
+  },
+  "food": {
+    "id": 108140,
+    "name": "genshinimpact.characters.qiqi.food.name"
+  }
+}

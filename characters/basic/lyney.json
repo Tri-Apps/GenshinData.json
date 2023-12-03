@@ -1,0 +1,44 @@
+{
+  "id": 10000084,
+  "kid": "lyney",
+  "name": "genshinimpact.characters.lyney.name",
+  "title": "genshinimpact.characters.lyney.title",
+  "description": "genshinimpact.characters.lyney.description",
+  "rarity": 5,
+  "gender": "male",
+  "affiliation": "genshinimpact.characters.lyney.affiliation",
+  "constllation": "genshinimpact.characters.lyney.constllation",
+  "element": "pyro",
+  "weapon": "bow",
+  "birthday": "2/2",
+  "images": {
+    "card": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/card/lyney.png",
+    "face": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/face/lyney.png",
+    "side": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/side/lyney.png",
+    "gacha_card": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/gacha/card/lyney.png",
+    "gacha_splash": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/gacha/splash/lyney.png"
+  },
+  "cv": {
+    "zh": "锦鲤",
+    "en": "",
+    "jp": "",
+    "kr": ""
+  },
+  "hp_base": 857.9879760742188,
+  "attack_base": 24.76460075378418,
+  "defense_base": 41.88100051879883,
+  "sort_id": 69,
+  "release_date": "2023-08-15",
+  "name_card": {
+    "id": 210165,
+    "background": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/background/lyney.png",
+    "profile": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/profile/lyney.png",
+    "icon": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/icon/lyney.png",
+    "name": "genshinimpact.characters.lyney.name_card.name",
+    "description": "genshinimpact.characters.lyney.name_card.description"
+  },
+  "food": {
+    "id": 108564,
+    "name": "genshinimpact.characters.lyney.food.name"
+  }
+}

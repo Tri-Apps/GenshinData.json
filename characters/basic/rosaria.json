@@ -1,0 +1,44 @@
+{
+  "id": 10000045,
+  "kid": "rosaria",
+  "name": "genshinimpact.characters.rosaria.name",
+  "title": "genshinimpact.characters.rosaria.title",
+  "description": "genshinimpact.characters.rosaria.description",
+  "rarity": 4,
+  "gender": "female",
+  "affiliation": "genshinimpact.characters.rosaria.affiliation",
+  "constllation": "genshinimpact.characters.rosaria.constllation",
+  "element": "cryo",
+  "weapon": "polearm",
+  "birthday": "1/24",
+  "images": {
+    "card": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/card/rosaria.png",
+    "face": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/face/rosaria.png",
+    "side": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/side/rosaria.png",
+    "gacha_card": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/gacha/card/rosaria.png",
+    "gacha_splash": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/gacha/splash/rosaria.png"
+  },
+  "cv": {
+    "zh": "张安琪",
+    "en": "",
+    "jp": "",
+    "kr": ""
+  },
+  "hp_base": 1030.3238525390625,
+  "attack_base": 20.12303924560547,
+  "defense_base": 59.513999938964844,
+  "sort_id": 30,
+  "release_date": "2021-04-06",
+  "name_card": {
+    "id": 210063,
+    "background": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/background/rosaria.png",
+    "profile": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/profile/rosaria.png",
+    "icon": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/icon/rosaria.png",
+    "name": "genshinimpact.characters.rosaria.name_card.name",
+    "description": "genshinimpact.characters.rosaria.name_card.description"
+  },
+  "food": {
+    "id": 108234,
+    "name": "genshinimpact.characters.rosaria.food.name"
+  }
+}

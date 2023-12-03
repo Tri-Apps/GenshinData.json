@@ -1,0 +1,44 @@
+{
+  "id": 10000034,
+  "kid": "noelle",
+  "name": "genshinimpact.characters.noelle.name",
+  "title": "genshinimpact.characters.noelle.title",
+  "description": "genshinimpact.characters.noelle.description",
+  "rarity": 4,
+  "gender": "female",
+  "affiliation": "genshinimpact.characters.noelle.affiliation",
+  "constllation": "genshinimpact.characters.noelle.constllation",
+  "element": "geo",
+  "weapon": "claymore",
+  "birthday": "3/21",
+  "images": {
+    "card": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/card/noelle.png",
+    "face": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/face/noelle.png",
+    "side": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/side/noelle.png",
+    "gacha_card": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/gacha/card/noelle.png",
+    "gacha_splash": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/gacha/splash/noelle.png"
+  },
+  "cv": {
+    "zh": "宴宁",
+    "en": "",
+    "jp": "",
+    "kr": ""
+  },
+  "hp_base": 1012.0880126953125,
+  "attack_base": 16.02720069885254,
+  "defense_base": 66.9532470703125,
+  "sort_id": 12,
+  "release_date": "2020-09-15",
+  "name_card": {
+    "id": 210014,
+    "background": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/background/noelle.png",
+    "profile": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/profile/noelle.png",
+    "icon": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/icon/noelle.png",
+    "name": "genshinimpact.characters.noelle.name_card.name",
+    "description": "genshinimpact.characters.noelle.name_card.description"
+  },
+  "food": {
+    "id": 108118,
+    "name": "genshinimpact.characters.noelle.food.name"
+  }
+}

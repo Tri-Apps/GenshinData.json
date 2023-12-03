@@ -1,0 +1,44 @@
+{
+  "id": 10000031,
+  "kid": "fischl",
+  "name": "genshinimpact.characters.fischl.name",
+  "title": "genshinimpact.characters.fischl.title",
+  "description": "genshinimpact.characters.fischl.description",
+  "rarity": 4,
+  "gender": "female",
+  "affiliation": "genshinimpact.characters.fischl.affiliation",
+  "constllation": "genshinimpact.characters.fischl.constllation",
+  "element": "electro",
+  "weapon": "bow",
+  "birthday": "5/27",
+  "images": {
+    "card": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/card/fischl.png",
+    "face": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/face/fischl.png",
+    "side": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/side/fischl.png",
+    "gacha_card": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/gacha/card/fischl.png",
+    "gacha_splash": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/gacha/splash/fischl.png"
+  },
+  "cv": {
+    "zh": "Mace\u0026赵悦程",
+    "en": "",
+    "jp": "",
+    "kr": ""
+  },
+  "hp_base": 770.46337890625,
+  "attack_base": 20.47920036315918,
+  "defense_base": 49.78575134277344,
+  "sort_id": 14,
+  "release_date": "2020-09-15",
+  "name_card": {
+    "id": 210013,
+    "background": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/background/fischl.png",
+    "profile": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/profile/fischl.png",
+    "icon": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/icon/fischl.png",
+    "name": "genshinimpact.characters.fischl.name_card.name",
+    "description": "genshinimpact.characters.fischl.name_card.description"
+  },
+  "food": {
+    "id": 108117,
+    "name": "genshinimpact.characters.fischl.food.name"
+  }
+}

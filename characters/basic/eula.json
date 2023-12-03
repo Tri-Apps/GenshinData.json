@@ -1,0 +1,44 @@
+{
+  "id": 10000051,
+  "kid": "eula",
+  "name": "genshinimpact.characters.eula.name",
+  "title": "genshinimpact.characters.eula.title",
+  "description": "genshinimpact.characters.eula.description",
+  "rarity": 5,
+  "gender": "female",
+  "affiliation": "genshinimpact.characters.eula.affiliation",
+  "constllation": "genshinimpact.characters.eula.constllation",
+  "element": "cryo",
+  "weapon": "claymore",
+  "birthday": "10/25",
+  "images": {
+    "card": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/card/eula.png",
+    "face": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/face/eula.png",
+    "side": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/side/eula.png",
+    "gacha_card": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/gacha/card/eula.png",
+    "gacha_splash": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/gacha/splash/eula.png"
+  },
+  "cv": {
+    "zh": "子音",
+    "en": "",
+    "jp": "",
+    "kr": ""
+  },
+  "hp_base": 1029.5855712890625,
+  "attack_base": 26.62660026550293,
+  "defense_base": 58.45391082763672,
+  "sort_id": 32,
+  "release_date": "2021-05-18",
+  "name_card": {
+    "id": 210070,
+    "background": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/background/eula.png",
+    "profile": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/profile/eula.png",
+    "icon": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/icon/eula.png",
+    "name": "genshinimpact.characters.eula.name_card.name",
+    "description": "genshinimpact.characters.eula.name_card.description"
+  },
+  "food": {
+    "id": 108245,
+    "name": "genshinimpact.characters.eula.food.name"
+  }
+}

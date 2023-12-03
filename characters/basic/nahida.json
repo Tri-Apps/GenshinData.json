@@ -1,0 +1,44 @@
+{
+  "id": 10000073,
+  "kid": "nahida",
+  "name": "genshinimpact.characters.nahida.name",
+  "title": "genshinimpact.characters.nahida.title",
+  "description": "genshinimpact.characters.nahida.description",
+  "rarity": 5,
+  "gender": "female",
+  "affiliation": "genshinimpact.characters.nahida.affiliation",
+  "constllation": "genshinimpact.characters.nahida.constllation",
+  "element": "dendro",
+  "weapon": "catalyst",
+  "birthday": "10/27",
+  "images": {
+    "card": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/card/nahida.png",
+    "face": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/face/nahida.png",
+    "side": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/side/nahida.png",
+    "gacha_card": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/gacha/card/nahida.png",
+    "gacha_splash": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/gacha/splash/nahida.png"
+  },
+  "cv": {
+    "zh": "花玲",
+    "en": "",
+    "jp": "",
+    "kr": ""
+  },
+  "hp_base": 806.5087280273438,
+  "attack_base": 23.274999618530273,
+  "defense_base": 49.06060028076172,
+  "sort_id": 57,
+  "release_date": "2022-11-01",
+  "name_card": {
+    "id": 210140,
+    "background": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/background/nahida.png",
+    "profile": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/profile/nahida.png",
+    "icon": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/icon/nahida.png",
+    "name": "genshinimpact.characters.nahida.name_card.name",
+    "description": "genshinimpact.characters.nahida.name_card.description"
+  },
+  "food": {
+    "id": 108474,
+    "name": "genshinimpact.characters.nahida.food.name"
+  }
+}

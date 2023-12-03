@@ -1,0 +1,44 @@
+{
+  "id": 10000050,
+  "kid": "thoma",
+  "name": "genshinimpact.characters.thoma.name",
+  "title": "genshinimpact.characters.thoma.title",
+  "description": "genshinimpact.characters.thoma.description",
+  "rarity": 4,
+  "gender": "male",
+  "affiliation": "genshinimpact.characters.thoma.affiliation",
+  "constllation": "genshinimpact.characters.thoma.constllation",
+  "element": "pyro",
+  "weapon": "polearm",
+  "birthday": "1/9",
+  "images": {
+    "card": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/card/thoma.png",
+    "face": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/face/thoma.png",
+    "side": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/side/thoma.png",
+    "gacha_card": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/gacha/card/thoma.png",
+    "gacha_splash": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/gacha/splash/thoma.png"
+  },
+  "cv": {
+    "zh": "张沛",
+    "en": "",
+    "jp": "",
+    "kr": ""
+  },
+  "hp_base": 866.2014770507812,
+  "attack_base": 16.917600631713867,
+  "defense_base": 62.9474983215332,
+  "sort_id": 41,
+  "release_date": "2021-11-02",
+  "name_card": {
+    "id": 210101,
+    "background": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/background/thoma.png",
+    "profile": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/profile/thoma.png",
+    "icon": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/icon/thoma.png",
+    "name": "genshinimpact.characters.thoma.name_card.name",
+    "description": "genshinimpact.characters.thoma.name_card.description"
+  },
+  "food": {
+    "id": 108354,
+    "name": "genshinimpact.characters.thoma.food.name"
+  }
+}

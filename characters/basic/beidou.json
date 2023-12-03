@@ -1,0 +1,44 @@
+{
+  "id": 10000024,
+  "kid": "beidou",
+  "name": "genshinimpact.characters.beidou.name",
+  "title": "genshinimpact.characters.beidou.title",
+  "description": "genshinimpact.characters.beidou.description",
+  "rarity": 4,
+  "gender": "female",
+  "affiliation": "genshinimpact.characters.beidou.affiliation",
+  "constllation": "genshinimpact.characters.beidou.constllation",
+  "element": "electro",
+  "weapon": "claymore",
+  "birthday": "2/14",
+  "images": {
+    "card": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/card/beidou.png",
+    "face": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/face/beidou.png",
+    "side": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/side/beidou.png",
+    "gacha_card": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/gacha/card/beidou.png",
+    "gacha_splash": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/gacha/splash/beidou.png"
+  },
+  "cv": {
+    "zh": "唐雅菁",
+    "en": "",
+    "jp": "",
+    "kr": ""
+  },
+  "hp_base": 1094.149169921875,
+  "attack_base": 18.876480102539062,
+  "defense_base": 54.36375045776367,
+  "sort_id": 17,
+  "release_date": "2020-09-15",
+  "name_card": {
+    "id": 210039,
+    "background": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/background/beidou.png",
+    "profile": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/profile/beidou.png",
+    "icon": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/icon/beidou.png",
+    "name": "genshinimpact.characters.beidou.name_card.name",
+    "description": "genshinimpact.characters.beidou.name_card.description"
+  },
+  "food": {
+    "id": 108138,
+    "name": "genshinimpact.characters.beidou.food.name"
+  }
+}

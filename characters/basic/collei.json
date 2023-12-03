@@ -1,0 +1,44 @@
+{
+  "id": 10000067,
+  "kid": "collei",
+  "name": "genshinimpact.characters.collei.name",
+  "title": "genshinimpact.characters.collei.title",
+  "description": "genshinimpact.characters.collei.description",
+  "rarity": 4,
+  "gender": "female",
+  "affiliation": "genshinimpact.characters.collei.affiliation",
+  "constllation": "genshinimpact.characters.collei.constllation",
+  "element": "dendro",
+  "weapon": "bow",
+  "birthday": "5/8",
+  "images": {
+    "card": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/card/collei.png",
+    "face": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/face/collei.png",
+    "side": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/side/collei.png",
+    "gacha_card": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/gacha/card/collei.png",
+    "gacha_splash": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/gacha/splash/collei.png"
+  },
+  "cv": {
+    "zh": "秦文静",
+    "en": "",
+    "jp": "",
+    "kr": ""
+  },
+  "hp_base": 820.6118774414062,
+  "attack_base": 16.739519119262695,
+  "defense_base": 50.358001708984375,
+  "sort_id": 51,
+  "release_date": "2022-08-24",
+  "name_card": {
+    "id": 210125,
+    "background": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/background/collei.png",
+    "profile": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/profile/collei.png",
+    "icon": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/icon/collei.png",
+    "name": "genshinimpact.characters.collei.name_card.name",
+    "description": "genshinimpact.characters.collei.name_card.description"
+  },
+  "food": {
+    "id": 108437,
+    "name": "genshinimpact.characters.collei.food.name"
+  }
+}

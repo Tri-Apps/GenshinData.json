@@ -1,0 +1,44 @@
+{
+  "id": 10000065,
+  "kid": "kuki_shinobu",
+  "name": "genshinimpact.characters.kuki_shinobu.name",
+  "title": "genshinimpact.characters.kuki_shinobu.title",
+  "description": "genshinimpact.characters.kuki_shinobu.description",
+  "rarity": 4,
+  "gender": "female",
+  "affiliation": "genshinimpact.characters.kuki_shinobu.affiliation",
+  "constllation": "genshinimpact.characters.kuki_shinobu.constllation",
+  "element": "electro",
+  "weapon": "sword",
+  "birthday": "7/27",
+  "images": {
+    "card": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/card/kuki_shinobu.png",
+    "face": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/face/kuki_shinobu.png",
+    "side": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/side/kuki_shinobu.png",
+    "gacha_card": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/gacha/card/kuki_shinobu.png",
+    "gacha_splash": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/gacha/splash/kuki_shinobu.png"
+  },
+  "cv": {
+    "zh": "杨凝",
+    "en": "",
+    "jp": "",
+    "kr": ""
+  },
+  "hp_base": 1030.3238525390625,
+  "attack_base": 17.808000564575195,
+  "defense_base": 62.9474983215332,
+  "sort_id": 49,
+  "release_date": "2022-06-21",
+  "name_card": {
+    "id": 210120,
+    "background": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/background/kuki_shinobu.png",
+    "profile": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/profile/kuki_shinobu.png",
+    "icon": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/icon/kuki_shinobu.png",
+    "name": "genshinimpact.characters.kuki_shinobu.name_card.name",
+    "description": "genshinimpact.characters.kuki_shinobu.name_card.description"
+  },
+  "food": {
+    "id": 108388,
+    "name": "genshinimpact.characters.kuki_shinobu.food.name"
+  }
+}

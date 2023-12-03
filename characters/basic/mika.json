@@ -1,0 +1,44 @@
+{
+  "id": 10000080,
+  "kid": "mika",
+  "name": "genshinimpact.characters.mika.name",
+  "title": "genshinimpact.characters.mika.title",
+  "description": "genshinimpact.characters.mika.description",
+  "rarity": 4,
+  "gender": "male",
+  "affiliation": "genshinimpact.characters.mika.affiliation",
+  "constllation": "genshinimpact.characters.mika.constllation",
+  "element": "cryo",
+  "weapon": "polearm",
+  "birthday": "8/11",
+  "images": {
+    "card": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/card/mika.png",
+    "face": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/face/mika.png",
+    "side": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/side/mika.png",
+    "gacha_card": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/gacha/card/mika.png",
+    "gacha_splash": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/gacha/splash/mika.png"
+  },
+  "cv": {
+    "zh": "邓宥希",
+    "en": "",
+    "jp": "",
+    "kr": ""
+  },
+  "hp_base": 1048.5596923828125,
+  "attack_base": 18.698400497436523,
+  "defense_base": 59.80012512207031,
+  "sort_id": 64,
+  "release_date": "2023-03-21",
+  "name_card": {
+    "id": 210153,
+    "background": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/background/mika.png",
+    "profile": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/profile/mika.png",
+    "icon": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/icon/mika.png",
+    "name": "genshinimpact.characters.mika.name_card.name",
+    "description": "genshinimpact.characters.mika.name_card.description"
+  },
+  "food": {
+    "id": 108502,
+    "name": "genshinimpact.characters.mika.food.name"
+  }
+}

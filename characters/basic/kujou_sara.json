@@ -1,0 +1,44 @@
+{
+  "id": 10000056,
+  "kid": "kujou_sara",
+  "name": "genshinimpact.characters.kujou_sara.name",
+  "title": "genshinimpact.characters.kujou_sara.title",
+  "description": "genshinimpact.characters.kujou_sara.description",
+  "rarity": 4,
+  "gender": "female",
+  "affiliation": "genshinimpact.characters.kujou_sara.affiliation",
+  "constllation": "genshinimpact.characters.kujou_sara.constllation",
+  "element": "electro",
+  "weapon": "bow",
+  "birthday": "7/14",
+  "images": {
+    "card": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/card/kujou_sara.png",
+    "face": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/face/kujou_sara.png",
+    "side": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/side/kujou_sara.png",
+    "gacha_card": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/gacha/card/kujou_sara.png",
+    "gacha_splash": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/gacha/splash/kujou_sara.png"
+  },
+  "cv": {
+    "zh": "杨梦露",
+    "en": "",
+    "jp": "",
+    "kr": ""
+  },
+  "hp_base": 802.3760986328125,
+  "attack_base": 16.383359909057617,
+  "defense_base": 52.64699935913086,
+  "sort_id": 38,
+  "release_date": "2021-09-01",
+  "name_card": {
+    "id": 210094,
+    "background": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/background/kujou_sara.png",
+    "profile": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/profile/kujou_sara.png",
+    "icon": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/icon/kujou_sara.png",
+    "name": "genshinimpact.characters.kujou_sara.name_card.name",
+    "description": "genshinimpact.characters.kujou_sara.name_card.description"
+  },
+  "food": {
+    "id": 108341,
+    "name": "genshinimpact.characters.kujou_sara.food.name"
+  }
+}

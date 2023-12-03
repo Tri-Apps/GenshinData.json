@@ -1,0 +1,44 @@
+{
+  "id": 10000027,
+  "kid": "ningguang",
+  "name": "genshinimpact.characters.ningguang.name",
+  "title": "genshinimpact.characters.ningguang.title",
+  "description": "genshinimpact.characters.ningguang.description",
+  "rarity": 4,
+  "gender": "female",
+  "affiliation": "genshinimpact.characters.ningguang.affiliation",
+  "constllation": "genshinimpact.characters.ningguang.constllation",
+  "element": "geo",
+  "weapon": "catalyst",
+  "birthday": "8/26",
+  "images": {
+    "card": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/card/ningguang.png",
+    "face": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/face/ningguang.png",
+    "side": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/side/ningguang.png",
+    "gacha_card": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/gacha/card/ningguang.png",
+    "gacha_splash": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/gacha/splash/ningguang.png"
+  },
+  "cv": {
+    "zh": "杜冥鸦",
+    "en": "",
+    "jp": "",
+    "kr": ""
+  },
+  "hp_base": 820.6118774414062,
+  "attack_base": 17.808000564575195,
+  "defense_base": 48.069000244140625,
+  "sort_id": 15,
+  "release_date": "2020-09-15",
+  "name_card": {
+    "id": 210038,
+    "background": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/background/ningguang.png",
+    "profile": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/profile/ningguang.png",
+    "icon": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/icon/ningguang.png",
+    "name": "genshinimpact.characters.ningguang.name_card.name",
+    "description": "genshinimpact.characters.ningguang.name_card.description"
+  },
+  "food": {
+    "id": 108139,
+    "name": "genshinimpact.characters.ningguang.food.name"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": 10000029,
+  "kid": "klee",
+  "name": "genshinimpact.characters.klee.name",
+  "title": "genshinimpact.characters.klee.title",
+  "description": "genshinimpact.characters.klee.description",
+  "rarity": 5,
+  "gender": "female",
+  "affiliation": "genshinimpact.characters.klee.affiliation",
+  "constllation": "genshinimpact.characters.klee.constllation",
+  "element": "pyro",
+  "weapon": "catalyst",
+  "birthday": "7/27",
+  "images": {
+    "card": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/card/klee.png",
+    "face": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/face/klee.png",
+    "side": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/side/klee.png",
+    "gacha_card": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/gacha/card/klee.png",
+    "gacha_splash": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/gacha/splash/klee.png"
+  },
+  "cv": {
+    "zh": "花玲",
+    "en": "",
+    "jp": "",
+    "kr": ""
+  },
+  "hp_base": 800.788818359375,
+  "attack_base": 24.20599937438965,
+  "defense_base": 47.86399841308594,
+  "sort_id": 3,
+  "release_date": "2020-09-15",
+  "name_card": {
+    "id": 210004,
+    "background": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/background/klee.png",
+    "profile": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/profile/klee.png",
+    "icon": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/icon/klee.png",
+    "name": "genshinimpact.characters.klee.name_card.name",
+    "description": "genshinimpact.characters.klee.name_card.description"
+  },
+  "food": {
+    "id": 108115,
+    "name": "genshinimpact.characters.klee.food.name"
+  }
+}

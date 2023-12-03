@@ -1,0 +1,44 @@
+{
+  "id": 10000046,
+  "kid": "hu_tao",
+  "name": "genshinimpact.characters.hu_tao.name",
+  "title": "genshinimpact.characters.hu_tao.title",
+  "description": "genshinimpact.characters.hu_tao.description",
+  "rarity": 5,
+  "gender": "female",
+  "affiliation": "genshinimpact.characters.hu_tao.affiliation",
+  "constllation": "genshinimpact.characters.hu_tao.constllation",
+  "element": "pyro",
+  "weapon": "polearm",
+  "birthday": "7/15",
+  "images": {
+    "card": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/card/hu_tao.png",
+    "face": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/face/hu_tao.png",
+    "side": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/side/hu_tao.png",
+    "gacha_card": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/gacha/card/hu_tao.png",
+    "gacha_splash": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/gacha/splash/hu_tao.png"
+  },
+  "cv": {
+    "zh": "陶典",
+    "en": "",
+    "jp": "",
+    "kr": ""
+  },
+  "hp_base": 1210.7164306640625,
+  "attack_base": 8.285900115966797,
+  "defense_base": 68.2061996459961,
+  "sort_id": 29,
+  "release_date": "2021-03-02",
+  "name_card": {
+    "id": 210059,
+    "background": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/background/hu_tao.png",
+    "profile": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/profile/hu_tao.png",
+    "icon": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/icon/hu_tao.png",
+    "name": "genshinimpact.characters.hu_tao.name_card.name",
+    "description": "genshinimpact.characters.hu_tao.name_card.description"
+  },
+  "food": {
+    "id": 108200,
+    "name": "genshinimpact.characters.hu_tao.food.name"
+  }
+}

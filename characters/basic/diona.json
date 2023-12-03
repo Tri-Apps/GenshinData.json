@@ -1,0 +1,44 @@
+{
+  "id": 10000039,
+  "kid": "diona",
+  "name": "genshinimpact.characters.diona.name",
+  "title": "genshinimpact.characters.diona.title",
+  "description": "genshinimpact.characters.diona.description",
+  "rarity": 4,
+  "gender": "female",
+  "affiliation": "genshinimpact.characters.diona.affiliation",
+  "constllation": "genshinimpact.characters.diona.constllation",
+  "element": "cryo",
+  "weapon": "bow",
+  "birthday": "1/18",
+  "images": {
+    "card": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/card/diona.png",
+    "face": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/face/diona.png",
+    "side": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/side/diona.png",
+    "gacha_card": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/gacha/card/diona.png",
+    "gacha_splash": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/gacha/splash/diona.png"
+  },
+  "cv": {
+    "zh": "诺亚",
+    "en": "",
+    "jp": "",
+    "kr": ""
+  },
+  "hp_base": 802.3760986328125,
+  "attack_base": 17.808000564575195,
+  "defense_base": 50.358001708984375,
+  "sort_id": 2,
+  "release_date": "2020-11-11",
+  "name_card": {
+    "id": 210043,
+    "background": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/background/diona.png",
+    "profile": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/profile/diona.png",
+    "icon": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/icon/diona.png",
+    "name": "genshinimpact.characters.diona.name_card.name",
+    "description": "genshinimpact.characters.diona.name_card.description"
+  },
+  "food": {
+    "id": 108134,
+    "name": "genshinimpact.characters.diona.food.name"
+  }
+}

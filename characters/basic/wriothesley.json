@@ -1,0 +1,44 @@
+{
+  "id": 10000086,
+  "kid": "wriothesley",
+  "name": "genshinimpact.characters.wriothesley.name",
+  "title": "genshinimpact.characters.wriothesley.title",
+  "description": "genshinimpact.characters.wriothesley.description",
+  "rarity": 5,
+  "gender": "male",
+  "affiliation": "genshinimpact.characters.wriothesley.affiliation",
+  "constllation": "genshinimpact.characters.wriothesley.constllation",
+  "element": "cryo",
+  "weapon": "catalyst",
+  "birthday": "11/23",
+  "images": {
+    "card": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/card/wriothesley.png",
+    "face": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/face/wriothesley.png",
+    "side": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/side/wriothesley.png",
+    "gacha_card": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/gacha/card/wriothesley.png",
+    "gacha_splash": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/gacha/splash/wriothesley.png"
+  },
+  "cv": {
+    "zh": "刘北辰",
+    "en": "",
+    "jp": "",
+    "kr": ""
+  },
+  "hp_base": 1058.1851806640625,
+  "attack_base": 24.20599937438965,
+  "defense_base": 59.411190032958984,
+  "sort_id": 72,
+  "release_date": "2023-10-17",
+  "name_card": {
+    "id": 210175,
+    "background": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/background/wriothesley.png",
+    "profile": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/profile/wriothesley.png",
+    "icon": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/icon/wriothesley.png",
+    "name": "genshinimpact.characters.wriothesley.name_card.name",
+    "description": "genshinimpact.characters.wriothesley.name_card.description"
+  },
+  "food": {
+    "id": 108604,
+    "name": "genshinimpact.characters.wriothesley.food.name"
+  }
+}

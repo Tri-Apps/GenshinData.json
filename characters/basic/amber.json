@@ -1,0 +1,44 @@
+{
+  "id": 10000021,
+  "kid": "amber",
+  "name": "genshinimpact.characters.amber.name",
+  "title": "genshinimpact.characters.amber.title",
+  "description": "genshinimpact.characters.amber.description",
+  "rarity": 4,
+  "gender": "female",
+  "affiliation": "genshinimpact.characters.amber.affiliation",
+  "constllation": "genshinimpact.characters.amber.constllation",
+  "element": "pyro",
+  "weapon": "bow",
+  "birthday": "8/10",
+  "images": {
+    "card": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/card/amber.png",
+    "face": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/face/amber.png",
+    "side": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/side/amber.png",
+    "gacha_card": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/gacha/card/amber.png",
+    "gacha_splash": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/gacha/splash/amber.png"
+  },
+  "cv": {
+    "zh": "蔡书瑾",
+    "en": "",
+    "jp": "",
+    "kr": ""
+  },
+  "hp_base": 793.2581787109375,
+  "attack_base": 18.698400497436523,
+  "defense_base": 50.358001708984375,
+  "sort_id": 23,
+  "release_date": "2020-09-15",
+  "name_card": {
+    "id": 210003,
+    "background": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/background/amber.png",
+    "profile": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/profile/amber.png",
+    "icon": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/icon/amber.png",
+    "name": "genshinimpact.characters.amber.name_card.name",
+    "description": "genshinimpact.characters.amber.name_card.description"
+  },
+  "food": {
+    "id": 108010,
+    "name": "genshinimpact.characters.amber.food.name"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": 10000074,
+  "kid": "layla",
+  "name": "genshinimpact.characters.layla.name",
+  "title": "genshinimpact.characters.layla.title",
+  "description": "genshinimpact.characters.layla.description",
+  "rarity": 4,
+  "gender": "female",
+  "affiliation": "genshinimpact.characters.layla.affiliation",
+  "constllation": "genshinimpact.characters.layla.constllation",
+  "element": "cryo",
+  "weapon": "sword",
+  "birthday": "12/19",
+  "images": {
+    "card": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/card/layla.png",
+    "face": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/face/layla.png",
+    "side": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/side/layla.png",
+    "gacha_card": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/gacha/card/layla.png",
+    "gacha_splash": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/gacha/splash/layla.png"
+  },
+  "cv": {
+    "zh": "侯小菲",
+    "en": "",
+    "jp": "",
+    "kr": ""
+  },
+  "hp_base": 930.0267944335938,
+  "attack_base": 18.164159774780273,
+  "defense_base": 54.93600082397461,
+  "sort_id": 58,
+  "release_date": "2022-11-18",
+  "name_card": {
+    "id": 210141,
+    "background": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/background/layla.png",
+    "profile": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/profile/layla.png",
+    "icon": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/icon/layla.png",
+    "name": "genshinimpact.characters.layla.name_card.name",
+    "description": "genshinimpact.characters.layla.name_card.description"
+  },
+  "food": {
+    "id": 108473,
+    "name": "genshinimpact.characters.layla.food.name"
+  }
+}

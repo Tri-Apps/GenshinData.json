@@ -1,0 +1,32 @@
+{
+  "id": 10000005,
+  "kid": "aether",
+  "name": "genshinimpact.characters.aether.name",
+  "title": "genshinimpact.characters.aether.title",
+  "description": "genshinimpact.characters.aether.description",
+  "rarity": 5,
+  "gender": "male",
+  "affiliation": "genshinimpact.characters.aether.affiliation",
+  "constllation": "genshinimpact.characters.aether.constllation",
+  "element": "none",
+  "weapon": "sword",
+  "birthday": "",
+  "images": {
+    "card": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/card/aether.png",
+    "face": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/face/aether.png",
+    "side": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/side/aether.png",
+    "gacha_card": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/gacha/card/aether.png",
+    "gacha_splash": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/gacha/splash/aether.png"
+  },
+  "cv": {
+    "zh": "鹿喑\u0026多多poi",
+    "en": "",
+    "jp": "",
+    "kr": ""
+  },
+  "hp_base": 911.791015625,
+  "attack_base": 17.808000564575195,
+  "defense_base": 57.224998474121094,
+  "sort_id": 0,
+  "release_date": "0001-01-01"
+}

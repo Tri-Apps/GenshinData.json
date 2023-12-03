@@ -1,0 +1,44 @@
+{
+  "id": 10000014,
+  "kid": "barbara",
+  "name": "genshinimpact.characters.barbara.name",
+  "title": "genshinimpact.characters.barbara.title",
+  "description": "genshinimpact.characters.barbara.description",
+  "rarity": 4,
+  "gender": "female",
+  "affiliation": "genshinimpact.characters.barbara.affiliation",
+  "constllation": "genshinimpact.characters.barbara.constllation",
+  "element": "hydro",
+  "weapon": "catalyst",
+  "birthday": "7/5",
+  "images": {
+    "card": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/card/barbara.png",
+    "face": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/face/barbara.png",
+    "side": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/side/barbara.png",
+    "gacha_card": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/gacha/card/barbara.png",
+    "gacha_splash": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/gacha/splash/barbara.png"
+  },
+  "cv": {
+    "zh": "宋媛媛",
+    "en": "",
+    "jp": "",
+    "kr": ""
+  },
+  "hp_base": 820.6118774414062,
+  "attack_base": 13.355999946594238,
+  "defense_base": 56.080501556396484,
+  "sort_id": 20,
+  "release_date": "2020-09-15",
+  "name_card": {
+    "id": 210009,
+    "background": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/background/barbara.png",
+    "profile": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/profile/barbara.png",
+    "icon": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/icon/barbara.png",
+    "name": "genshinimpact.characters.barbara.name_card.name",
+    "description": "genshinimpact.characters.barbara.name_card.description"
+  },
+  "food": {
+    "id": 108040,
+    "name": "genshinimpact.characters.barbara.food.name"
+  }
+}

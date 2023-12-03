@@ -1,0 +1,44 @@
+{
+  "id": 10000026,
+  "kid": "xiao",
+  "name": "genshinimpact.characters.xiao.name",
+  "title": "genshinimpact.characters.xiao.title",
+  "description": "genshinimpact.characters.xiao.description",
+  "rarity": 5,
+  "gender": "male",
+  "affiliation": "genshinimpact.characters.xiao.affiliation",
+  "constllation": "genshinimpact.characters.xiao.constllation",
+  "element": "anemo",
+  "weapon": "polearm",
+  "birthday": "4/17",
+  "images": {
+    "card": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/card/xiao.png",
+    "face": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/face/xiao.png",
+    "side": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/side/xiao.png",
+    "gacha_card": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/gacha/card/xiao.png",
+    "gacha_splash": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/gacha/splash/xiao.png"
+  },
+  "cv": {
+    "zh": "kinsen",
+    "en": "",
+    "jp": "",
+    "kr": ""
+  },
+  "hp_base": 991.4528198242188,
+  "attack_base": 27.185199737548828,
+  "defense_base": 62.223201751708984,
+  "sort_id": 28,
+  "release_date": "2021-02-02",
+  "name_card": {
+    "id": 210058,
+    "background": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/background/xiao.png",
+    "profile": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/profile/xiao.png",
+    "icon": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/icon/xiao.png",
+    "name": "genshinimpact.characters.xiao.name_card.name",
+    "description": "genshinimpact.characters.xiao.name_card.description"
+  },
+  "food": {
+    "id": 108137,
+    "name": "genshinimpact.characters.xiao.food.name"
+  }
+}

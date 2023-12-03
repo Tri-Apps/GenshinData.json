@@ -1,0 +1,44 @@
+{
+  "id": 10000076,
+  "kid": "faruzan",
+  "name": "genshinimpact.characters.faruzan.name",
+  "title": "genshinimpact.characters.faruzan.title",
+  "description": "genshinimpact.characters.faruzan.description",
+  "rarity": 4,
+  "gender": "female",
+  "affiliation": "genshinimpact.characters.faruzan.affiliation",
+  "constllation": "genshinimpact.characters.faruzan.constllation",
+  "element": "anemo",
+  "weapon": "bow",
+  "birthday": "8/20",
+  "images": {
+    "card": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/card/faruzan.png",
+    "face": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/face/faruzan.png",
+    "side": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/side/faruzan.png",
+    "gacha_card": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/gacha/card/faruzan.png",
+    "gacha_splash": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/gacha/splash/faruzan.png"
+  },
+  "cv": {
+    "zh": "阎萌萌",
+    "en": "",
+    "jp": "",
+    "kr": ""
+  },
+  "hp_base": 802.3760986328125,
+  "attack_base": 16.472400665283203,
+  "defense_base": 52.64699935913086,
+  "sort_id": 59,
+  "release_date": "2022-12-06",
+  "name_card": {
+    "id": 210144,
+    "background": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/background/faruzan.png",
+    "profile": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/profile/faruzan.png",
+    "icon": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/icon/faruzan.png",
+    "name": "genshinimpact.characters.faruzan.name_card.name",
+    "description": "genshinimpact.characters.faruzan.name_card.description"
+  },
+  "food": {
+    "id": 108478,
+    "name": "genshinimpact.characters.faruzan.food.name"
+  }
+}

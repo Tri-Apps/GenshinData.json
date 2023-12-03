@@ -1,0 +1,44 @@
+{
+  "id": 10000072,
+  "kid": "candace",
+  "name": "genshinimpact.characters.candace.name",
+  "title": "genshinimpact.characters.candace.title",
+  "description": "genshinimpact.characters.candace.description",
+  "rarity": 4,
+  "gender": "female",
+  "affiliation": "genshinimpact.characters.candace.affiliation",
+  "constllation": "genshinimpact.characters.candace.constllation",
+  "element": "hydro",
+  "weapon": "polearm",
+  "birthday": "5/3",
+  "images": {
+    "card": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/card/candace.png",
+    "face": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/face/candace.png",
+    "side": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/side/candace.png",
+    "gacha_card": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/gacha/card/candace.png",
+    "gacha_splash": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/gacha/splash/candace.png"
+  },
+  "cv": {
+    "zh": "张琦",
+    "en": "",
+    "jp": "",
+    "kr": ""
+  },
+  "hp_base": 911.791015625,
+  "attack_base": 17.808000564575195,
+  "defense_base": 57.224998474121094,
+  "sort_id": 54,
+  "release_date": "2022-09-27",
+  "name_card": {
+    "id": 210135,
+    "background": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/background/candace.png",
+    "profile": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/profile/candace.png",
+    "icon": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/icon/candace.png",
+    "name": "genshinimpact.characters.candace.name_card.name",
+    "description": "genshinimpact.characters.candace.name_card.description"
+  },
+  "food": {
+    "id": 108468,
+    "name": "genshinimpact.characters.candace.food.name"
+  }
+}

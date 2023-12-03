@@ -1,0 +1,44 @@
+{
+  "id": 10000047,
+  "kid": "kaedehara_kazuha",
+  "name": "genshinimpact.characters.kaedehara_kazuha.name",
+  "title": "genshinimpact.characters.kaedehara_kazuha.title",
+  "description": "genshinimpact.characters.kaedehara_kazuha.description",
+  "rarity": 5,
+  "gender": "male",
+  "affiliation": "genshinimpact.characters.kaedehara_kazuha.affiliation",
+  "constllation": "genshinimpact.characters.kaedehara_kazuha.constllation",
+  "element": "anemo",
+  "weapon": "sword",
+  "birthday": "10/29",
+  "images": {
+    "card": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/card/kaedehara_kazuha.png",
+    "face": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/face/kaedehara_kazuha.png",
+    "side": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/side/kaedehara_kazuha.png",
+    "gacha_card": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/gacha/card/kaedehara_kazuha.png",
+    "gacha_splash": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/gacha/splash/kaedehara_kazuha.png"
+  },
+  "cv": {
+    "zh": "斑马",
+    "en": "",
+    "jp": "",
+    "kr": ""
+  },
+  "hp_base": 1039.1187744140625,
+  "attack_base": 23.08880043029785,
+  "defense_base": 62.82149887084961,
+  "sort_id": 33,
+  "release_date": "2021-06-29",
+  "name_card": {
+    "id": 210073,
+    "background": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/background/kaedehara_kazuha.png",
+    "profile": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/profile/kaedehara_kazuha.png",
+    "icon": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/icon/kaedehara_kazuha.png",
+    "name": "genshinimpact.characters.kaedehara_kazuha.name_card.name",
+    "description": "genshinimpact.characters.kaedehara_kazuha.name_card.description"
+  },
+  "food": {
+    "id": 108301,
+    "name": "genshinimpact.characters.kaedehara_kazuha.food.name"
+  }
+}

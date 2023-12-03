@@ -1,0 +1,44 @@
+{
+  "id": 0,
+  "kid": "",
+  "name": "genshinimpact.characters.{kid}.name",
+  "title": "genshinimpact.characters.{kid}.title",
+  "description": "genshinimpact.characters.{kid}.description",
+  "rarity": 5,
+  "gender": "",
+  "affiliation": "genshinimpact.characters.{kid}.affiliation",
+  "constllation": "genshinimpact.characters.{kid}.constllation",
+  "element": "",
+  "weapon": "",
+  "birthday": "1/1",
+  "images": {
+    "card": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/card/{kid}.png",
+    "face": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/face/{kid}.png",
+    "side": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/side/{kid}.png",
+    "gacha_card": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/gacha/card/{kid}.png",
+    "gacha_splash": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/gacha/splash/{kid}.png"
+  },
+  "cv": {
+    "zh": "",
+    "en": "",
+    "jp": "",
+    "kr": ""
+  },
+  "hp_base": 0.0,
+  "attack_base": 0.0,
+  "defense_base": 0.0,
+  "sort_id": 0,
+  "release_date": "2020-09-15",
+  "name_card": {
+    "id": 0,
+    "background": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/background/{kid}.png",
+    "profile": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/profile/{kid}.png",
+    "icon": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/icon/{kid}.png",
+    "name": "genshinimpact.characters.{kid}.name_card.name",
+    "description": "genshinimpact.characters.{kid}.name_card.description"
+  },
+  "food": {
+    "id": 0,
+    "name": "genshinimpact.characters.{kid}.food.name"
+  }
+}

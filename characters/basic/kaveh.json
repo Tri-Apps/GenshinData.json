@@ -1,0 +1,44 @@
+{
+  "id": 10000081,
+  "kid": "kaveh",
+  "name": "genshinimpact.characters.kaveh.name",
+  "title": "genshinimpact.characters.kaveh.title",
+  "description": "genshinimpact.characters.kaveh.description",
+  "rarity": 4,
+  "gender": "male",
+  "affiliation": "genshinimpact.characters.kaveh.affiliation",
+  "constllation": "genshinimpact.characters.kaveh.constllation",
+  "element": "dendro",
+  "weapon": "claymore",
+  "birthday": "7/9",
+  "images": {
+    "card": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/card/kaveh.png",
+    "face": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/face/kaveh.png",
+    "side": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/side/kaveh.png",
+    "gacha_card": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/gacha/card/kaveh.png",
+    "gacha_splash": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/gacha/splash/kaveh.png"
+  },
+  "cv": {
+    "zh": "刘三木",
+    "en": "",
+    "jp": "",
+    "kr": ""
+  },
+  "hp_base": 1002.9700927734375,
+  "attack_base": 19.58880043029785,
+  "defense_base": 62.9474983215332,
+  "sort_id": 65,
+  "release_date": "2023-05-02",
+  "name_card": {
+    "id": 210156,
+    "background": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/background/kaveh.png",
+    "profile": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/profile/kaveh.png",
+    "icon": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/icon/kaveh.png",
+    "name": "genshinimpact.characters.kaveh.name_card.name",
+    "description": "genshinimpact.characters.kaveh.name_card.description"
+  },
+  "food": {
+    "id": 108509,
+    "name": "genshinimpact.characters.kaveh.food.name"
+  }
+}

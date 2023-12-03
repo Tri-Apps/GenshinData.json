@@ -1,0 +1,44 @@
+{
+  "id": 10000082,
+  "kid": "baizhu",
+  "name": "genshinimpact.characters.baizhu.name",
+  "title": "genshinimpact.characters.baizhu.title",
+  "description": "genshinimpact.characters.baizhu.description",
+  "rarity": 5,
+  "gender": "male",
+  "affiliation": "genshinimpact.characters.baizhu.affiliation",
+  "constllation": "genshinimpact.characters.baizhu.constllation",
+  "element": "dendro",
+  "weapon": "catalyst",
+  "birthday": "4/25",
+  "images": {
+    "card": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/card/baizhu.png",
+    "face": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/face/baizhu.png",
+    "side": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/side/baizhu.png",
+    "gacha_card": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/gacha/card/baizhu.png",
+    "gacha_splash": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/gacha/splash/baizhu.png"
+  },
+  "cv": {
+    "zh": "秦且歌\u0026王晓彤",
+    "en": "",
+    "jp": "",
+    "kr": ""
+  },
+  "hp_base": 1039.1187744140625,
+  "attack_base": 14.989100456237793,
+  "defense_base": 38.88949966430664,
+  "sort_id": 66,
+  "release_date": "2023-05-02",
+  "name_card": {
+    "id": 210155,
+    "background": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/background/baizhu.png",
+    "profile": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/profile/baizhu.png",
+    "icon": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/icon/baizhu.png",
+    "name": "genshinimpact.characters.baizhu.name_card.name",
+    "description": "genshinimpact.characters.baizhu.name_card.description"
+  },
+  "food": {
+    "id": 108510,
+    "name": "genshinimpact.characters.baizhu.food.name"
+  }
+}

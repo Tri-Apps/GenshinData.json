@@ -1,0 +1,44 @@
+{
+  "id": 10000087,
+  "kid": "neuvillette",
+  "name": "genshinimpact.characters.neuvillette.name",
+  "title": "genshinimpact.characters.neuvillette.title",
+  "description": "genshinimpact.characters.neuvillette.description",
+  "rarity": 5,
+  "gender": "male",
+  "affiliation": "genshinimpact.characters.neuvillette.affiliation",
+  "constllation": "genshinimpact.characters.neuvillette.constllation",
+  "element": "hydro",
+  "weapon": "catalyst",
+  "birthday": "12/18",
+  "images": {
+    "card": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/card/neuvillette.png",
+    "face": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/face/neuvillette.png",
+    "side": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/side/neuvillette.png",
+    "gacha_card": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/gacha/card/neuvillette.png",
+    "gacha_splash": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/gacha/splash/neuvillette.png"
+  },
+  "cv": {
+    "zh": "桑毓泽",
+    "en": "",
+    "jp": "",
+    "kr": ""
+  },
+  "hp_base": 1143.9840087890625,
+  "attack_base": 16.218019485473633,
+  "defense_base": 44.872501373291016,
+  "sort_id": 71,
+  "release_date": "2023-09-26",
+  "name_card": {
+    "id": 210174,
+    "background": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/background/neuvillette.png",
+    "profile": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/profile/neuvillette.png",
+    "icon": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/icon/neuvillette.png",
+    "name": "genshinimpact.characters.neuvillette.name_card.name",
+    "description": "genshinimpact.characters.neuvillette.name_card.description"
+  },
+  "food": {
+    "id": 108603,
+    "name": "genshinimpact.characters.neuvillette.food.name"
+  }
+}

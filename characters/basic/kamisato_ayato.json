@@ -1,0 +1,44 @@
+{
+  "id": 10000066,
+  "kid": "kamisato_ayato",
+  "name": "genshinimpact.characters.kamisato_ayato.name",
+  "title": "genshinimpact.characters.kamisato_ayato.title",
+  "description": "genshinimpact.characters.kamisato_ayato.description",
+  "rarity": 5,
+  "gender": "male",
+  "affiliation": "genshinimpact.characters.kamisato_ayato.affiliation",
+  "constllation": "genshinimpact.characters.kamisato_ayato.constllation",
+  "element": "hydro",
+  "weapon": "sword",
+  "birthday": "3/26",
+  "images": {
+    "card": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/card/kamisato_ayato.png",
+    "face": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/face/kamisato_ayato.png",
+    "side": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/side/kamisato_ayato.png",
+    "gacha_card": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/gacha/card/kamisato_ayato.png",
+    "gacha_splash": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/gacha/splash/kamisato_ayato.png"
+  },
+  "cv": {
+    "zh": "赵路",
+    "en": "",
+    "jp": "",
+    "kr": ""
+  },
+  "hp_base": 1067.7183837890625,
+  "attack_base": 23.274999618530273,
+  "defense_base": 59.83000183105469,
+  "sort_id": 47,
+  "release_date": "2022-03-30",
+  "name_card": {
+    "id": 210114,
+    "background": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/background/kamisato_ayato.png",
+    "profile": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/profile/kamisato_ayato.png",
+    "icon": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/icon/kamisato_ayato.png",
+    "name": "genshinimpact.characters.kamisato_ayato.name_card.name",
+    "description": "genshinimpact.characters.kamisato_ayato.name_card.description"
+  },
+  "food": {
+    "id": 108387,
+    "name": "genshinimpact.characters.kamisato_ayato.food.name"
+  }
+}

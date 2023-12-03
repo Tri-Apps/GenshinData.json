@@ -1,0 +1,44 @@
+{
+  "id": 10000016,
+  "kid": "diluc",
+  "name": "genshinimpact.characters.diluc.name",
+  "title": "genshinimpact.characters.diluc.title",
+  "description": "genshinimpact.characters.diluc.description",
+  "rarity": 5,
+  "gender": "male",
+  "affiliation": "genshinimpact.characters.diluc.affiliation",
+  "constllation": "genshinimpact.characters.diluc.constllation",
+  "element": "pyro",
+  "weapon": "claymore",
+  "birthday": "4/30",
+  "images": {
+    "card": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/card/diluc.png",
+    "face": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/face/diluc.png",
+    "side": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/side/diluc.png",
+    "gacha_card": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/gacha/card/diluc.png",
+    "gacha_splash": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/gacha/splash/diluc.png"
+  },
+  "cv": {
+    "zh": "马洋",
+    "en": "",
+    "jp": "",
+    "kr": ""
+  },
+  "hp_base": 1010.5192260742188,
+  "attack_base": 26.06800079345703,
+  "defense_base": 61.0265998840332,
+  "sort_id": 8,
+  "release_date": "2020-09-15",
+  "name_card": {
+    "id": 210005,
+    "background": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/background/diluc.png",
+    "profile": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/profile/diluc.png",
+    "icon": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/icon/diluc.png",
+    "name": "genshinimpact.characters.diluc.name_card.name",
+    "description": "genshinimpact.characters.diluc.name_card.description"
+  },
+  "food": {
+    "id": 108058,
+    "name": "genshinimpact.characters.diluc.food.name"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": 10000068,
+  "kid": "dori",
+  "name": "genshinimpact.characters.dori.name",
+  "title": "genshinimpact.characters.dori.title",
+  "description": "genshinimpact.characters.dori.description",
+  "rarity": 4,
+  "gender": "female",
+  "affiliation": "genshinimpact.characters.dori.affiliation",
+  "constllation": "genshinimpact.characters.dori.constllation",
+  "element": "electro",
+  "weapon": "claymore",
+  "birthday": "12/21",
+  "images": {
+    "card": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/card/dori.png",
+    "face": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/face/dori.png",
+    "side": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/side/dori.png",
+    "gacha_card": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/gacha/card/dori.png",
+    "gacha_splash": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/gacha/splash/dori.png"
+  },
+  "cv": {
+    "zh": "王晓彤",
+    "en": "",
+    "jp": "",
+    "kr": ""
+  },
+  "hp_base": 1039.4417724609375,
+  "attack_base": 18.698400497436523,
+  "defense_base": 60.65850067138672,
+  "sort_id": 53,
+  "release_date": "2022-09-09",
+  "name_card": {
+    "id": 210126,
+    "background": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/background/dori.png",
+    "profile": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/profile/dori.png",
+    "icon": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/icon/dori.png",
+    "name": "genshinimpact.characters.dori.name_card.name",
+    "description": "genshinimpact.characters.dori.name_card.description"
+  },
+  "food": {
+    "id": 108438,
+    "name": "genshinimpact.characters.dori.food.name"
+  }
+}

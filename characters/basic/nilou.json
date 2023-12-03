@@ -1,0 +1,44 @@
+{
+  "id": 10000070,
+  "kid": "nilou",
+  "name": "genshinimpact.characters.nilou.name",
+  "title": "genshinimpact.characters.nilou.title",
+  "description": "genshinimpact.characters.nilou.description",
+  "rarity": 5,
+  "gender": "female",
+  "affiliation": "genshinimpact.characters.nilou.affiliation",
+  "constllation": "genshinimpact.characters.nilou.constllation",
+  "element": "hydro",
+  "weapon": "sword",
+  "birthday": "12/3",
+  "images": {
+    "card": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/card/nilou.png",
+    "face": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/face/nilou.png",
+    "side": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/side/nilou.png",
+    "gacha_card": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/gacha/card/nilou.png",
+    "gacha_splash": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/gacha/splash/nilou.png"
+  },
+  "cv": {
+    "zh": "紫苏九月",
+    "en": "",
+    "jp": "",
+    "kr": ""
+  },
+  "hp_base": 1182.1168212890625,
+  "attack_base": 17.875200271606445,
+  "defense_base": 56.718841552734375,
+  "sort_id": 56,
+  "release_date": "2022-10-14",
+  "name_card": {
+    "id": 210136,
+    "background": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/background/nilou.png",
+    "profile": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/profile/nilou.png",
+    "icon": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/icon/nilou.png",
+    "name": "genshinimpact.characters.nilou.name_card.name",
+    "description": "genshinimpact.characters.nilou.name_card.description"
+  },
+  "food": {
+    "id": 108466,
+    "name": "genshinimpact.characters.nilou.food.name"
+  }
+}

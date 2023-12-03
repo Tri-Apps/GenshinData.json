@@ -1,0 +1,44 @@
+{
+  "id": 10000032,
+  "kid": "bennett",
+  "name": "genshinimpact.characters.bennett.name",
+  "title": "genshinimpact.characters.bennett.title",
+  "description": "genshinimpact.characters.bennett.description",
+  "rarity": 4,
+  "gender": "male",
+  "affiliation": "genshinimpact.characters.bennett.affiliation",
+  "constllation": "genshinimpact.characters.bennett.constllation",
+  "element": "pyro",
+  "weapon": "sword",
+  "birthday": "2/29",
+  "images": {
+    "card": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/card/bennett.png",
+    "face": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/face/bennett.png",
+    "side": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/side/bennett.png",
+    "gacha_card": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/gacha/card/bennett.png",
+    "gacha_splash": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/gacha/splash/bennett.png"
+  },
+  "cv": {
+    "zh": "穆雪婷",
+    "en": "",
+    "jp": "",
+    "kr": ""
+  },
+  "hp_base": 1039.4417724609375,
+  "attack_base": 16.02720069885254,
+  "defense_base": 64.66425323486328,
+  "sort_id": 13,
+  "release_date": "2020-09-15",
+  "name_card": {
+    "id": 210016,
+    "background": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/background/bennett.png",
+    "profile": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/profile/bennett.png",
+    "icon": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/icon/bennett.png",
+    "name": "genshinimpact.characters.bennett.name_card.name",
+    "description": "genshinimpact.characters.bennett.name_card.description"
+  },
+  "food": {
+    "id": 108116,
+    "name": "genshinimpact.characters.bennett.food.name"
+  }
+}

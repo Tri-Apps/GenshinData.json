@@ -1,0 +1,44 @@
+{
+  "id": 10000077,
+  "kid": "yaoyao",
+  "name": "genshinimpact.characters.yaoyao.name",
+  "title": "genshinimpact.characters.yaoyao.title",
+  "description": "genshinimpact.characters.yaoyao.description",
+  "rarity": 4,
+  "gender": "female",
+  "affiliation": "genshinimpact.characters.yaoyao.affiliation",
+  "constllation": "genshinimpact.characters.yaoyao.constllation",
+  "element": "dendro",
+  "weapon": "polearm",
+  "birthday": "3/6",
+  "images": {
+    "card": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/card/yaoyao.png",
+    "face": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/face/yaoyao.png",
+    "side": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/side/yaoyao.png",
+    "gacha_card": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/gacha/card/yaoyao.png",
+    "gacha_splash": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/gacha/splash/yaoyao.png"
+  },
+  "cv": {
+    "zh": "刘颐诺",
+    "en": "",
+    "jp": "",
+    "kr": ""
+  },
+  "hp_base": 1030.3238525390625,
+  "attack_base": 17.808000564575195,
+  "defense_base": 62.9474983215332,
+  "sort_id": 61,
+  "release_date": "2023-01-17",
+  "name_card": {
+    "id": 210148,
+    "background": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/background/yaoyao.png",
+    "profile": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/profile/yaoyao.png",
+    "icon": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/icon/yaoyao.png",
+    "name": "genshinimpact.characters.yaoyao.name_card.name",
+    "description": "genshinimpact.characters.yaoyao.name_card.description"
+  },
+  "food": {
+    "id": 108487,
+    "name": "genshinimpact.characters.yaoyao.food.name"
+  }
+}

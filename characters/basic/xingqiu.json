@@ -1,0 +1,44 @@
+{
+  "id": 10000025,
+  "kid": "xingqiu",
+  "name": "genshinimpact.characters.xingqiu.name",
+  "title": "genshinimpact.characters.xingqiu.title",
+  "description": "genshinimpact.characters.xingqiu.description",
+  "rarity": 4,
+  "gender": "male",
+  "affiliation": "genshinimpact.characters.xingqiu.affiliation",
+  "constllation": "genshinimpact.characters.xingqiu.constllation",
+  "element": "hydro",
+  "weapon": "sword",
+  "birthday": "10/9",
+  "images": {
+    "card": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/card/xingqiu.png",
+    "face": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/face/xingqiu.png",
+    "side": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/side/xingqiu.png",
+    "gacha_card": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/gacha/card/xingqiu.png",
+    "gacha_splash": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/gacha/splash/xingqiu.png"
+  },
+  "cv": {
+    "zh": "唐雅菁",
+    "en": "",
+    "jp": "",
+    "kr": ""
+  },
+  "hp_base": 857.0835571289062,
+  "attack_base": 16.917600631713867,
+  "defense_base": 63.51974868774414,
+  "sort_id": 16,
+  "release_date": "2020-09-15",
+  "name_card": {
+    "id": 210018,
+    "background": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/background/xingqiu.png",
+    "profile": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/profile/xingqiu.png",
+    "icon": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/icon/xingqiu.png",
+    "name": "genshinimpact.characters.xingqiu.name_card.name",
+    "description": "genshinimpact.characters.xingqiu.name_card.description"
+  },
+  "food": {
+    "id": 108136,
+    "name": "genshinimpact.characters.xingqiu.food.name"
+  }
+}

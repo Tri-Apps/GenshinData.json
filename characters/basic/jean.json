@@ -1,0 +1,44 @@
+{
+  "id": 10000003,
+  "kid": "jean",
+  "name": "genshinimpact.characters.jean.name",
+  "title": "genshinimpact.characters.jean.title",
+  "description": "genshinimpact.characters.jean.description",
+  "rarity": 5,
+  "gender": "female",
+  "affiliation": "genshinimpact.characters.jean.affiliation",
+  "constllation": "genshinimpact.characters.jean.constllation",
+  "element": "anemo",
+  "weapon": "sword",
+  "birthday": "3/14",
+  "images": {
+    "card": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/card/jean.png",
+    "face": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/face/jean.png",
+    "side": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/side/jean.png",
+    "gacha_card": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/gacha/card/jean.png",
+    "gacha_splash": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/gacha/splash/jean.png"
+  },
+  "cv": {
+    "zh": "林簌",
+    "en": "",
+    "jp": "",
+    "kr": ""
+  },
+  "hp_base": 1143.9840087890625,
+  "attack_base": 18.6200008392334,
+  "defense_base": 59.83000183105469,
+  "sort_id": 9,
+  "release_date": "2020-09-15",
+  "name_card": {
+    "id": 210008,
+    "background": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/background/jean.png",
+    "profile": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/profile/jean.png",
+    "icon": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/icon/jean.png",
+    "name": "genshinimpact.characters.jean.name_card.name",
+    "description": "genshinimpact.characters.jean.name_card.description"
+  },
+  "food": {
+    "id": 108044,
+    "name": "genshinimpact.characters.jean.food.name"
+  }
+}

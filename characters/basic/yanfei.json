@@ -1,0 +1,44 @@
+{
+  "id": 10000048,
+  "kid": "yanfei",
+  "name": "genshinimpact.characters.yanfei.name",
+  "title": "genshinimpact.characters.yanfei.title",
+  "description": "genshinimpact.characters.yanfei.description",
+  "rarity": 4,
+  "gender": "female",
+  "affiliation": "genshinimpact.characters.yanfei.affiliation",
+  "constllation": "genshinimpact.characters.yanfei.constllation",
+  "element": "pyro",
+  "weapon": "catalyst",
+  "birthday": "7/28",
+  "images": {
+    "card": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/card/yanfei.png",
+    "face": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/face/yanfei.png",
+    "side": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/side/yanfei.png",
+    "gacha_card": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/gacha/card/yanfei.png",
+    "gacha_splash": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/gacha/splash/yanfei.png"
+  },
+  "cv": {
+    "zh": "苏子芜",
+    "en": "",
+    "jp": "",
+    "kr": ""
+  },
+  "hp_base": 784.1402587890625,
+  "attack_base": 20.12303924560547,
+  "defense_base": 49.2135009765625,
+  "sort_id": 31,
+  "release_date": "2021-04-27",
+  "name_card": {
+    "id": 210069,
+    "background": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/background/yanfei.png",
+    "profile": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/profile/yanfei.png",
+    "icon": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/icon/yanfei.png",
+    "name": "genshinimpact.characters.yanfei.name_card.name",
+    "description": "genshinimpact.characters.yanfei.name_card.description"
+  },
+  "food": {
+    "id": 108244,
+    "name": "genshinimpact.characters.yanfei.food.name"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": 10000041,
+  "kid": "mona",
+  "name": "genshinimpact.characters.mona.name",
+  "title": "genshinimpact.characters.mona.title",
+  "description": "genshinimpact.characters.mona.description",
+  "rarity": 5,
+  "gender": "female",
+  "affiliation": "genshinimpact.characters.mona.affiliation",
+  "constllation": "genshinimpact.characters.mona.constllation",
+  "element": "hydro",
+  "weapon": "catalyst",
+  "birthday": "8/31",
+  "images": {
+    "card": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/card/mona.png",
+    "face": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/face/mona.png",
+    "side": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/side/mona.png",
+    "gacha_card": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/gacha/card/mona.png",
+    "gacha_splash": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/gacha/splash/mona.png"
+  },
+  "cv": {
+    "zh": "陈婷婷",
+    "en": "",
+    "jp": "",
+    "kr": ""
+  },
+  "hp_base": 810.322021484375,
+  "attack_base": 22.3439998626709,
+  "defense_base": 50.855499267578125,
+  "sort_id": 6,
+  "release_date": "2020-09-15",
+  "name_card": {
+    "id": 210015,
+    "background": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/background/mona.png",
+    "profile": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/profile/mona.png",
+    "icon": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/icon/mona.png",
+    "name": "genshinimpact.characters.mona.name_card.name",
+    "description": "genshinimpact.characters.mona.name_card.description"
+  },
+  "food": {
+    "id": 108114,
+    "name": "genshinimpact.characters.mona.food.name"
+  }
+}

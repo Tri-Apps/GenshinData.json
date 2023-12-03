@@ -1,0 +1,44 @@
+{
+  "id": 10000079,
+  "kid": "dehya",
+  "name": "genshinimpact.characters.dehya.name",
+  "title": "genshinimpact.characters.dehya.title",
+  "description": "genshinimpact.characters.dehya.description",
+  "rarity": 5,
+  "gender": "female",
+  "affiliation": "genshinimpact.characters.dehya.affiliation",
+  "constllation": "genshinimpact.characters.dehya.constllation",
+  "element": "pyro",
+  "weapon": "claymore",
+  "birthday": "4/7",
+  "images": {
+    "card": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/card/dehya.png",
+    "face": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/face/dehya.png",
+    "side": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/side/dehya.png",
+    "gacha_card": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/gacha/card/dehya.png",
+    "gacha_splash": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/gacha/splash/dehya.png"
+  },
+  "cv": {
+    "zh": "陈雨",
+    "en": "",
+    "jp": "",
+    "kr": ""
+  },
+  "hp_base": 1220.2496337890625,
+  "attack_base": 20.66819953918457,
+  "defense_base": 48.88111114501953,
+  "sort_id": 63,
+  "release_date": "2023-02-28",
+  "name_card": {
+    "id": 210152,
+    "background": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/background/dehya.png",
+    "profile": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/profile/dehya.png",
+    "icon": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/icon/dehya.png",
+    "name": "genshinimpact.characters.dehya.name_card.name",
+    "description": "genshinimpact.characters.dehya.name_card.description"
+  },
+  "food": {
+    "id": 108501,
+    "name": "genshinimpact.characters.dehya.food.name"
+  }
+}

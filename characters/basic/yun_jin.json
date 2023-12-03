@@ -1,0 +1,44 @@
+{
+  "id": 10000064,
+  "kid": "yun_jin",
+  "name": "genshinimpact.characters.yun_jin.name",
+  "title": "genshinimpact.characters.yun_jin.title",
+  "description": "genshinimpact.characters.yun_jin.description",
+  "rarity": 4,
+  "gender": "female",
+  "affiliation": "genshinimpact.characters.yun_jin.affiliation",
+  "constllation": "genshinimpact.characters.yun_jin.constllation",
+  "element": "geo",
+  "weapon": "polearm",
+  "birthday": "5/21",
+  "images": {
+    "card": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/card/yun_jin.png",
+    "face": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/face/yun_jin.png",
+    "side": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/side/yun_jin.png",
+    "gacha_card": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/gacha/card/yun_jin.png",
+    "gacha_splash": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/gacha/splash/yun_jin.png"
+  },
+  "cv": {
+    "zh": "贺文潇\u0026杨扬",
+    "en": "",
+    "jp": "",
+    "kr": ""
+  },
+  "hp_base": 893.55517578125,
+  "attack_base": 16.02720069885254,
+  "defense_base": 61.574100494384766,
+  "sort_id": 44,
+  "release_date": "2022-01-05",
+  "name_card": {
+    "id": 210108,
+    "background": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/background/yun_jin.png",
+    "profile": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/profile/yun_jin.png",
+    "icon": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/icon/yun_jin.png",
+    "name": "genshinimpact.characters.yun_jin.name_card.name",
+    "description": "genshinimpact.characters.yun_jin.name_card.description"
+  },
+  "food": {
+    "id": 108373,
+    "name": "genshinimpact.characters.yun_jin.food.name"
+  }
+}

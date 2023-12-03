@@ -1,0 +1,44 @@
+{
+  "id": 10000006,
+  "kid": "lisa",
+  "name": "genshinimpact.characters.lisa.name",
+  "title": "genshinimpact.characters.lisa.title",
+  "description": "genshinimpact.characters.lisa.description",
+  "rarity": 4,
+  "gender": "female",
+  "affiliation": "genshinimpact.characters.lisa.affiliation",
+  "constllation": "genshinimpact.characters.lisa.constllation",
+  "element": "electro",
+  "weapon": "catalyst",
+  "birthday": "6/9",
+  "images": {
+    "card": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/card/lisa.png",
+    "face": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/face/lisa.png",
+    "side": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/side/lisa.png",
+    "gacha_card": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/gacha/card/lisa.png",
+    "gacha_splash": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/gacha/splash/lisa.png"
+  },
+  "cv": {
+    "zh": "钟可",
+    "en": "",
+    "jp": "",
+    "kr": ""
+  },
+  "hp_base": 802.3760986328125,
+  "attack_base": 19.410720825195312,
+  "defense_base": 48.069000244140625,
+  "sort_id": 21,
+  "release_date": "2020-09-15",
+  "name_card": {
+    "id": 210011,
+    "background": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/background/lisa.png",
+    "profile": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/profile/lisa.png",
+    "icon": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/icon/lisa.png",
+    "name": "genshinimpact.characters.lisa.name_card.name",
+    "description": "genshinimpact.characters.lisa.name_card.description"
+  },
+  "food": {
+    "id": 108018,
+    "name": "genshinimpact.characters.lisa.food.name"
+  }
+}

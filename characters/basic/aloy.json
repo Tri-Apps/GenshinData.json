@@ -1,0 +1,44 @@
+{
+  "id": 10000062,
+  "kid": "aloy",
+  "name": "genshinimpact.characters.aloy.name",
+  "title": "genshinimpact.characters.aloy.title",
+  "description": "genshinimpact.characters.aloy.description",
+  "rarity": 5,
+  "gender": "female",
+  "affiliation": "genshinimpact.characters.aloy.affiliation",
+  "constllation": "genshinimpact.characters.aloy.constllation",
+  "element": "cryo",
+  "weapon": "bow",
+  "birthday": "4/4",
+  "images": {
+    "card": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/card/aloy.png",
+    "face": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/face/aloy.png",
+    "side": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/side/aloy.png",
+    "gacha_card": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/gacha/card/aloy.png",
+    "gacha_splash": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/gacha/splash/aloy.png"
+  },
+  "cv": {
+    "zh": "沐霏",
+    "en": "",
+    "jp": "",
+    "kr": ""
+  },
+  "hp_base": 848.4547729492188,
+  "attack_base": 18.210359573364258,
+  "defense_base": 52.65039825439453,
+  "sort_id": 37,
+  "release_date": "2021-09-01",
+  "name_card": {
+    "id": 210095,
+    "background": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/background/aloy.png",
+    "profile": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/profile/aloy.png",
+    "icon": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/icon/aloy.png",
+    "name": "genshinimpact.characters.aloy.name_card.name",
+    "description": "genshinimpact.characters.aloy.name_card.description"
+  },
+  "food": {
+    "id": 108339,
+    "name": "genshinimpact.characters.aloy.food.name"
+  }
+}

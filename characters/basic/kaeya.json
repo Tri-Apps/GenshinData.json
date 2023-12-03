@@ -1,0 +1,44 @@
+{
+  "id": 10000015,
+  "kid": "kaeya",
+  "name": "genshinimpact.characters.kaeya.name",
+  "title": "genshinimpact.characters.kaeya.title",
+  "description": "genshinimpact.characters.kaeya.description",
+  "rarity": 4,
+  "gender": "male",
+  "affiliation": "genshinimpact.characters.kaeya.affiliation",
+  "constllation": "genshinimpact.characters.kaeya.constllation",
+  "element": "cryo",
+  "weapon": "sword",
+  "birthday": "11/30",
+  "images": {
+    "card": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/card/kaeya.png",
+    "face": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/face/kaeya.png",
+    "side": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/side/kaeya.png",
+    "gacha_card": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/gacha/card/kaeya.png",
+    "gacha_splash": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/gacha/splash/kaeya.png"
+  },
+  "cv": {
+    "zh": "孙晔",
+    "en": "",
+    "jp": "",
+    "kr": ""
+  },
+  "hp_base": 975.6163940429688,
+  "attack_base": 18.698400497436523,
+  "defense_base": 66.38099670410156,
+  "sort_id": 22,
+  "release_date": "2020-09-15",
+  "name_card": {
+    "id": 210010,
+    "background": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/background/kaeya.png",
+    "profile": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/profile/kaeya.png",
+    "icon": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/icon/kaeya.png",
+    "name": "genshinimpact.characters.kaeya.name_card.name",
+    "description": "genshinimpact.characters.kaeya.name_card.description"
+  },
+  "food": {
+    "id": 108014,
+    "name": "genshinimpact.characters.kaeya.food.name"
+  }
+}

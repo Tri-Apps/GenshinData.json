@@ -1,0 +1,44 @@
+{
+  "id": 10000022,
+  "kid": "venti",
+  "name": "genshinimpact.characters.venti.name",
+  "title": "genshinimpact.characters.venti.title",
+  "description": "genshinimpact.characters.venti.description",
+  "rarity": 5,
+  "gender": "male",
+  "affiliation": "genshinimpact.characters.venti.affiliation",
+  "constllation": "genshinimpact.characters.venti.constllation",
+  "element": "anemo",
+  "weapon": "bow",
+  "birthday": "6/16",
+  "images": {
+    "card": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/card/venti.png",
+    "face": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/face/venti.png",
+    "side": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/side/venti.png",
+    "gacha_card": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/gacha/card/venti.png",
+    "gacha_splash": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/gacha/splash/venti.png"
+  },
+  "cv": {
+    "zh": "喵酱",
+    "en": "",
+    "jp": "",
+    "kr": ""
+  },
+  "hp_base": 819.855224609375,
+  "attack_base": 20.48200035095215,
+  "defense_base": 52.052101135253906,
+  "sort_id": 4,
+  "release_date": "2020-09-15",
+  "name_card": {
+    "id": 210007,
+    "background": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/background/venti.png",
+    "profile": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/profile/venti.png",
+    "icon": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/icon/venti.png",
+    "name": "genshinimpact.characters.venti.name_card.name",
+    "description": "genshinimpact.characters.venti.name_card.description"
+  },
+  "food": {
+    "id": 108113,
+    "name": "genshinimpact.characters.venti.food.name"
+  }
+}

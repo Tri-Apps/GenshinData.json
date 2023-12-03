@@ -1,0 +1,44 @@
+{
+  "id": 10000042,
+  "kid": "keqing",
+  "name": "genshinimpact.characters.keqing.name",
+  "title": "genshinimpact.characters.keqing.title",
+  "description": "genshinimpact.characters.keqing.description",
+  "rarity": 5,
+  "gender": "female",
+  "affiliation": "genshinimpact.characters.keqing.affiliation",
+  "constllation": "genshinimpact.characters.keqing.constllation",
+  "element": "electro",
+  "weapon": "sword",
+  "birthday": "11/20",
+  "images": {
+    "card": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/card/keqing.png",
+    "face": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/face/keqing.png",
+    "side": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/side/keqing.png",
+    "gacha_card": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/gacha/card/keqing.png",
+    "gacha_splash": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/gacha/splash/keqing.png"
+  },
+  "cv": {
+    "zh": "谢莹",
+    "en": "",
+    "jp": "",
+    "kr": ""
+  },
+  "hp_base": 1020.0524291992188,
+  "attack_base": 25.136999130249023,
+  "defense_base": 62.223201751708984,
+  "sort_id": 5,
+  "release_date": "2020-09-15",
+  "name_card": {
+    "id": 210020,
+    "background": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/background/keqing.png",
+    "profile": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/profile/keqing.png",
+    "icon": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/icon/keqing.png",
+    "name": "genshinimpact.characters.keqing.name_card.name",
+    "description": "genshinimpact.characters.keqing.name_card.description"
+  },
+  "food": {
+    "id": 108145,
+    "name": "genshinimpact.characters.keqing.food.name"
+  }
+}

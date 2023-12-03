@@ -1,0 +1,44 @@
+{
+  "id": 10000058,
+  "kid": "yea_miko",
+  "name": "genshinimpact.characters.yea_miko.name",
+  "title": "genshinimpact.characters.yea_miko.title",
+  "description": "genshinimpact.characters.yea_miko.description",
+  "rarity": 5,
+  "gender": "female",
+  "affiliation": "genshinimpact.characters.yea_miko.affiliation",
+  "constllation": "genshinimpact.characters.yea_miko.constllation",
+  "element": "electro",
+  "weapon": "catalyst",
+  "birthday": "6/27",
+  "images": {
+    "card": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/card/yea_miko.png",
+    "face": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/face/yea_miko.png",
+    "side": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/side/yea_miko.png",
+    "gacha_card": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/gacha/card/yea_miko.png",
+    "gacha_splash": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/gacha/splash/yea_miko.png"
+  },
+  "cv": {
+    "zh": "杜冥鸦",
+    "en": "",
+    "jp": "",
+    "kr": ""
+  },
+  "hp_base": 807.4620361328125,
+  "attack_base": 26.440399169921875,
+  "defense_base": 44.274200439453125,
+  "sort_id": 46,
+  "release_date": "2022-02-16",
+  "name_card": {
+    "id": 210112,
+    "background": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/background/yea_miko.png",
+    "profile": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/profile/yea_miko.png",
+    "icon": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/icon/yea_miko.png",
+    "name": "genshinimpact.characters.yea_miko.name_card.name",
+    "description": "genshinimpact.characters.yea_miko.name_card.description"
+  },
+  "food": {
+    "id": 108380,
+    "name": "genshinimpact.characters.yea_miko.food.name"
+  }
+}

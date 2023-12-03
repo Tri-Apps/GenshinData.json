@@ -1,0 +1,44 @@
+{
+  "id": 10000053,
+  "kid": "sayu",
+  "name": "genshinimpact.characters.sayu.name",
+  "title": "genshinimpact.characters.sayu.title",
+  "description": "genshinimpact.characters.sayu.description",
+  "rarity": 4,
+  "gender": "female",
+  "affiliation": "genshinimpact.characters.sayu.affiliation",
+  "constllation": "genshinimpact.characters.sayu.constllation",
+  "element": "anemo",
+  "weapon": "claymore",
+  "birthday": "10/19",
+  "images": {
+    "card": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/card/sayu.png",
+    "face": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/face/sayu.png",
+    "side": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/side/sayu.png",
+    "gacha_card": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/gacha/card/sayu.png",
+    "gacha_splash": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/gacha/splash/sayu.png"
+  },
+  "cv": {
+    "zh": "Sakula小舞",
+    "en": "",
+    "jp": "",
+    "kr": ""
+  },
+  "hp_base": 993.8521728515625,
+  "attack_base": 20.47920036315918,
+  "defense_base": 62.43247604370117,
+  "sort_id": 35,
+  "release_date": "2021-08-10",
+  "name_card": {
+    "id": 210083,
+    "background": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/background/sayu.png",
+    "profile": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/profile/sayu.png",
+    "icon": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/icon/sayu.png",
+    "name": "genshinimpact.characters.sayu.name_card.name",
+    "description": "genshinimpact.characters.sayu.name_card.description"
+  },
+  "food": {
+    "id": 108303,
+    "name": "genshinimpact.characters.sayu.food.name"
+  }
+}

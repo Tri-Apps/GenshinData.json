@@ -1,0 +1,44 @@
+{
+  "id": 10000044,
+  "kid": "xinyan",
+  "name": "genshinimpact.characters.xinyan.name",
+  "title": "genshinimpact.characters.xinyan.title",
+  "description": "genshinimpact.characters.xinyan.description",
+  "rarity": 4,
+  "gender": "female",
+  "affiliation": "genshinimpact.characters.xinyan.affiliation",
+  "constllation": "genshinimpact.characters.xinyan.constllation",
+  "element": "pyro",
+  "weapon": "claymore",
+  "birthday": "10/16",
+  "images": {
+    "card": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/card/xinyan.png",
+    "face": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/face/xinyan.png",
+    "side": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/side/xinyan.png",
+    "gacha_card": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/gacha/card/xinyan.png",
+    "gacha_splash": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/gacha/splash/xinyan.png"
+  },
+  "cv": {
+    "zh": "王雅欣",
+    "en": "",
+    "jp": "",
+    "kr": ""
+  },
+  "hp_base": 939.1447143554688,
+  "attack_base": 20.835359573364258,
+  "defense_base": 66.9532470703125,
+  "sort_id": 25,
+  "release_date": "2020-12-02",
+  "name_card": {
+    "id": 210045,
+    "background": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/background/xinyan.png",
+    "profile": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/profile/xinyan.png",
+    "icon": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/icon/xinyan.png",
+    "name": "genshinimpact.characters.xinyan.name_card.name",
+    "description": "genshinimpact.characters.xinyan.name_card.description"
+  },
+  "food": {
+    "id": 108174,
+    "name": "genshinimpact.characters.xinyan.food.name"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": 10000061,
+  "kid": "kirara",
+  "name": "genshinimpact.characters.kirara.name",
+  "title": "genshinimpact.characters.kirara.title",
+  "description": "genshinimpact.characters.kirara.description",
+  "rarity": 4,
+  "gender": "female",
+  "affiliation": "genshinimpact.characters.kirara.affiliation",
+  "constllation": "genshinimpact.characters.kirara.constllation",
+  "element": "dendro",
+  "weapon": "sword",
+  "birthday": "1/22",
+  "images": {
+    "card": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/card/kirara.png",
+    "face": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/face/kirara.png",
+    "side": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/side/kirara.png",
+    "gacha_card": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/gacha/card/kirara.png",
+    "gacha_splash": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/gacha/splash/kirara.png"
+  },
+  "cv": {
+    "zh": "孙艳琦",
+    "en": "",
+    "jp": "",
+    "kr": ""
+  },
+  "hp_base": 1021.2059326171875,
+  "attack_base": 18.698400497436523,
+  "defense_base": 45.779998779296875,
+  "sort_id": 67,
+  "release_date": "2023-05-23",
+  "name_card": {
+    "id": 210162,
+    "background": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/background/kirara.png",
+    "profile": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/profile/kirara.png",
+    "icon": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/icon/kirara.png",
+    "name": "genshinimpact.characters.kirara.name_card.name",
+    "description": "genshinimpact.characters.kirara.name_card.description"
+  },
+  "food": {
+    "id": 108511,
+    "name": "genshinimpact.characters.kirara.food.name"
+  }
+}

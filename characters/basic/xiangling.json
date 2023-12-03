@@ -1,0 +1,44 @@
+{
+  "id": 10000023,
+  "kid": "xiangling",
+  "name": "genshinimpact.characters.xiangling.name",
+  "title": "genshinimpact.characters.xiangling.title",
+  "description": "genshinimpact.characters.xiangling.description",
+  "rarity": 4,
+  "gender": "female",
+  "affiliation": "genshinimpact.characters.xiangling.affiliation",
+  "constllation": "genshinimpact.characters.xiangling.constllation",
+  "element": "pyro",
+  "weapon": "polearm",
+  "birthday": "11/2",
+  "images": {
+    "card": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/card/xiangling.png",
+    "face": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/face/xiangling.png",
+    "side": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/side/xiangling.png",
+    "gacha_card": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/gacha/card/xiangling.png",
+    "gacha_splash": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/gacha/splash/xiangling.png"
+  },
+  "cv": {
+    "zh": "小N",
+    "en": "",
+    "jp": "",
+    "kr": ""
+  },
+  "hp_base": 911.791015625,
+  "attack_base": 18.876480102539062,
+  "defense_base": 56.080501556396484,
+  "sort_id": 18,
+  "release_date": "2020-09-15",
+  "name_card": {
+    "id": 210017,
+    "background": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/background/xiangling.png",
+    "profile": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/profile/xiangling.png",
+    "icon": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/icon/xiangling.png",
+    "name": "genshinimpact.characters.xiangling.name_card.name",
+    "description": "genshinimpact.characters.xiangling.name_card.description"
+  },
+  "food": {
+    "id": 108135,
+    "name": "genshinimpact.characters.xiangling.food.name"
+  }
+}

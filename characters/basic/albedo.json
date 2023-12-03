@@ -1,0 +1,44 @@
+{
+  "id": 10000038,
+  "kid": "albedo",
+  "name": "genshinimpact.characters.albedo.name",
+  "title": "genshinimpact.characters.albedo.title",
+  "description": "genshinimpact.characters.albedo.description",
+  "rarity": 5,
+  "gender": "male",
+  "affiliation": "genshinimpact.characters.albedo.affiliation",
+  "constllation": "genshinimpact.characters.albedo.constllation",
+  "element": "geo",
+  "weapon": "sword",
+  "birthday": "9/13",
+  "images": {
+    "card": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/card/albedo.png",
+    "face": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/face/albedo.png",
+    "side": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/side/albedo.png",
+    "gacha_card": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/gacha/card/albedo.png",
+    "gacha_splash": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/gacha/splash/albedo.png"
+  },
+  "cv": {
+    "zh": "Mace",
+    "en": "",
+    "jp": "",
+    "kr": ""
+  },
+  "hp_base": 1029.5855712890625,
+  "attack_base": 19.551000595092773,
+  "defense_base": 68.2061996459961,
+  "sort_id": 27,
+  "release_date": "2020-12-22",
+  "name_card": {
+    "id": 210054,
+    "background": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/background/albedo.png",
+    "profile": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/profile/albedo.png",
+    "icon": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/icon/albedo.png",
+    "name": "genshinimpact.characters.albedo.name_card.name",
+    "description": "genshinimpact.characters.albedo.name_card.description"
+  },
+  "food": {
+    "id": 108214,
+    "name": "genshinimpact.characters.albedo.food.name"
+  }
+}

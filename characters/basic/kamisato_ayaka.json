@@ -1,0 +1,44 @@
+{
+  "id": 10000002,
+  "kid": "kamisato_ayaka",
+  "name": "genshinimpact.characters.kamisato_ayaka.name",
+  "title": "genshinimpact.characters.kamisato_ayaka.title",
+  "description": "genshinimpact.characters.kamisato_ayaka.description",
+  "rarity": 5,
+  "gender": "female",
+  "affiliation": "genshinimpact.characters.kamisato_ayaka.affiliation",
+  "constllation": "genshinimpact.characters.kamisato_ayaka.constllation",
+  "element": "cryo",
+  "weapon": "sword",
+  "birthday": "9/28",
+  "images": {
+    "card": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/card/kamisato_ayaka.png",
+    "face": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/face/kamisato_ayaka.png",
+    "side": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/side/kamisato_ayaka.png",
+    "gacha_card": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/gacha/card/kamisato_ayaka.png",
+    "gacha_splash": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/gacha/splash/kamisato_ayaka.png"
+  },
+  "cv": {
+    "zh": "小N",
+    "en": "",
+    "jp": "",
+    "kr": ""
+  },
+  "hp_base": 1000.9860229492188,
+  "attack_base": 26.62660026550293,
+  "defense_base": 61.0265998840332,
+  "sort_id": 34,
+  "release_date": "2021-07-21",
+  "name_card": {
+    "id": 210081,
+    "background": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/background/kamisato_ayaka.png",
+    "profile": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/profile/kamisato_ayaka.png",
+    "icon": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/icon/kamisato_ayaka.png",
+    "name": "genshinimpact.characters.kamisato_ayaka.name_card.name",
+    "description": "genshinimpact.characters.kamisato_ayaka.name_card.description"
+  },
+  "food": {
+    "id": 108300,
+    "name": "genshinimpact.characters.kamisato_ayaka.food.name"
+  }
+}

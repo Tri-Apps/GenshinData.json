@@ -1,0 +1,44 @@
+{
+  "id": 10000060,
+  "kid": "yelan",
+  "name": "genshinimpact.characters.yelan.name",
+  "title": "genshinimpact.characters.yelan.title",
+  "description": "genshinimpact.characters.yelan.description",
+  "rarity": 5,
+  "gender": "female",
+  "affiliation": "genshinimpact.characters.yelan.affiliation",
+  "constllation": "genshinimpact.characters.yelan.constllation",
+  "element": "hydro",
+  "weapon": "bow",
+  "birthday": "4/20",
+  "images": {
+    "card": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/card/yelan.png",
+    "face": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/face/yelan.png",
+    "side": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/side/yelan.png",
+    "gacha_card": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/gacha/card/yelan.png",
+    "gacha_splash": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/gacha/splash/yelan.png"
+  },
+  "cv": {
+    "zh": "徐慧",
+    "en": "",
+    "jp": "",
+    "kr": ""
+  },
+  "hp_base": 1124.9176025390625,
+  "attack_base": 18.992399215698242,
+  "defense_base": 42.658790588378906,
+  "sort_id": 48,
+  "release_date": "2022-05-31",
+  "name_card": {
+    "id": 210119,
+    "background": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/background/yelan.png",
+    "profile": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/profile/yelan.png",
+    "icon": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/icon/yelan.png",
+    "name": "genshinimpact.characters.yelan.name_card.name",
+    "description": "genshinimpact.characters.yelan.name_card.description"
+  },
+  "food": {
+    "id": 108389,
+    "name": "genshinimpact.characters.yelan.food.name"
+  }
+}

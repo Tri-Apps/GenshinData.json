@@ -1,0 +1,44 @@
+{
+  "id": 10000078,
+  "kid": "alhaitham",
+  "name": "genshinimpact.characters.alhaitham.name",
+  "title": "genshinimpact.characters.alhaitham.title",
+  "description": "genshinimpact.characters.alhaitham.description",
+  "rarity": 5,
+  "gender": "male",
+  "affiliation": "genshinimpact.characters.alhaitham.affiliation",
+  "constllation": "genshinimpact.characters.alhaitham.constllation",
+  "element": "dendro",
+  "weapon": "sword",
+  "birthday": "2/11",
+  "images": {
+    "card": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/card/alhaitham.png",
+    "face": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/face/alhaitham.png",
+    "side": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/side/alhaitham.png",
+    "gacha_card": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/gacha/card/alhaitham.png",
+    "gacha_splash": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/gacha/splash/alhaitham.png"
+  },
+  "cv": {
+    "zh": "杨超然",
+    "en": "",
+    "jp": "",
+    "kr": ""
+  },
+  "hp_base": 1039.1187744140625,
+  "attack_base": 24.392200469970703,
+  "defense_base": 60.847110748291016,
+  "sort_id": 62,
+  "release_date": "2023-01-17",
+  "name_card": {
+    "id": 210147,
+    "background": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/background/alhaitham.png",
+    "profile": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/profile/alhaitham.png",
+    "icon": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/icon/alhaitham.png",
+    "name": "genshinimpact.characters.alhaitham.name_card.name",
+    "description": "genshinimpact.characters.alhaitham.name_card.description"
+  },
+  "food": {
+    "id": 108486,
+    "name": "genshinimpact.characters.alhaitham.food.name"
+  }
+}

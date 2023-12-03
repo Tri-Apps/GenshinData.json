@@ -1,0 +1,44 @@
+{
+  "id": 10000037,
+  "kid": "ganyu",
+  "name": "genshinimpact.characters.ganyu.name",
+  "title": "genshinimpact.characters.ganyu.title",
+  "description": "genshinimpact.characters.ganyu.description",
+  "rarity": 5,
+  "gender": "female",
+  "affiliation": "genshinimpact.characters.ganyu.affiliation",
+  "constllation": "genshinimpact.characters.ganyu.constllation",
+  "element": "cryo",
+  "weapon": "bow",
+  "birthday": "12/2",
+  "images": {
+    "card": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/card/ganyu.png",
+    "face": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/face/ganyu.png",
+    "side": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/side/ganyu.png",
+    "gacha_card": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/gacha/card/ganyu.png",
+    "gacha_splash": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/gacha/splash/ganyu.png"
+  },
+  "cv": {
+    "zh": "林簌",
+    "en": "",
+    "jp": "",
+    "kr": ""
+  },
+  "hp_base": 762.656005859375,
+  "attack_base": 26.06800079345703,
+  "defense_base": 49.06060028076172,
+  "sort_id": 26,
+  "release_date": "2021-01-12",
+  "name_card": {
+    "id": 210053,
+    "background": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/background/ganyu.png",
+    "profile": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/profile/ganyu.png",
+    "icon": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/icon/ganyu.png",
+    "name": "genshinimpact.characters.ganyu.name_card.name",
+    "description": "genshinimpact.characters.ganyu.name_card.description"
+  },
+  "food": {
+    "id": 108213,
+    "name": "genshinimpact.characters.ganyu.food.name"
+  }
+}

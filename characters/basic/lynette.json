@@ -1,0 +1,44 @@
+{
+  "id": 10000083,
+  "kid": "lynette",
+  "name": "genshinimpact.characters.lynette.name",
+  "title": "genshinimpact.characters.lynette.title",
+  "description": "genshinimpact.characters.lynette.description",
+  "rarity": 4,
+  "gender": "female",
+  "affiliation": "genshinimpact.characters.lynette.affiliation",
+  "constllation": "genshinimpact.characters.lynette.constllation",
+  "element": "anemo",
+  "weapon": "sword",
+  "birthday": "2/2",
+  "images": {
+    "card": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/card/lynette.png",
+    "face": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/face/lynette.png",
+    "side": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/side/lynette.png",
+    "gacha_card": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/gacha/card/lynette.png",
+    "gacha_splash": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/gacha/splash/lynette.png"
+  },
+  "cv": {
+    "zh": "可可味",
+    "en": "",
+    "jp": "",
+    "kr": ""
+  },
+  "hp_base": 1039.4417724609375,
+  "attack_base": 19.410720825195312,
+  "defense_base": 59.68567657470703,
+  "sort_id": 68,
+  "release_date": "2023-08-15",
+  "name_card": {
+    "id": 210166,
+    "background": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/background/lynette.png",
+    "profile": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/profile/lynette.png",
+    "icon": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/icon/lynette.png",
+    "name": "genshinimpact.characters.lynette.name_card.name",
+    "description": "genshinimpact.characters.lynette.name_card.description"
+  },
+  "food": {
+    "id": 108565,
+    "name": "genshinimpact.characters.lynette.food.name"
+  }
+}

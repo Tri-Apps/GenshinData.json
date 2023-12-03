@@ -1,0 +1,44 @@
+{
+  "id": 10000043,
+  "kid": "sucrose",
+  "name": "genshinimpact.characters.sucrose.name",
+  "title": "genshinimpact.characters.sucrose.title",
+  "description": "genshinimpact.characters.sucrose.description",
+  "rarity": 4,
+  "gender": "female",
+  "affiliation": "genshinimpact.characters.sucrose.affiliation",
+  "constllation": "genshinimpact.characters.sucrose.constllation",
+  "element": "anemo",
+  "weapon": "catalyst",
+  "birthday": "11/26",
+  "images": {
+    "card": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/card/sucrose.png",
+    "face": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/face/sucrose.png",
+    "side": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/side/sucrose.png",
+    "gacha_card": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/gacha/card/sucrose.png",
+    "gacha_splash": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/gacha/splash/sucrose.png"
+  },
+  "cv": {
+    "zh": "小敢",
+    "en": "",
+    "jp": "",
+    "kr": ""
+  },
+  "hp_base": 775.0223388671875,
+  "attack_base": 14.246399879455566,
+  "defense_base": 58.941749572753906,
+  "sort_id": 10,
+  "release_date": "2020-09-15",
+  "name_card": {
+    "id": 210012,
+    "background": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/background/sucrose.png",
+    "profile": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/profile/sucrose.png",
+    "icon": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/icon/sucrose.png",
+    "name": "genshinimpact.characters.sucrose.name_card.name",
+    "description": "genshinimpact.characters.sucrose.name_card.description"
+  },
+  "food": {
+    "id": 108146,
+    "name": "genshinimpact.characters.sucrose.food.name"
+  }
+}

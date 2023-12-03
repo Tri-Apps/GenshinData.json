@@ -1,0 +1,44 @@
+{
+  "id": 10000088,
+  "kid": "charlotte",
+  "name": "genshinimpact.characters.charlotte.name",
+  "title": "genshinimpact.characters.charlotte.title",
+  "description": "genshinimpact.characters.charlotte.description",
+  "rarity": 4,
+  "gender": "female",
+  "affiliation": "genshinimpact.characters.charlotte.affiliation",
+  "constllation": "genshinimpact.characters.charlotte.constllation",
+  "element": "cryo",
+  "weapon": "catalyst",
+  "birthday": "4/10",
+  "images": {
+    "card": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/card/charlotte.png",
+    "face": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/face/charlotte.png",
+    "side": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/side/charlotte.png",
+    "gacha_card": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/gacha/card/charlotte.png",
+    "gacha_splash": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/gacha/splash/charlotte.png"
+  },
+  "cv": {
+    "zh": "阮从青",
+    "en": "",
+    "jp": "",
+    "kr": ""
+  },
+  "hp_base": 902.673095703125,
+  "attack_base": 14.513520240783691,
+  "defense_base": 45.779998779296875,
+  "sort_id": 73,
+  "release_date": "2023-11-07",
+  "name_card": {
+    "id": 210181,
+    "background": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/background/charlotte.png",
+    "profile": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/profile/charlotte.png",
+    "icon": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/icon/charlotte.png",
+    "name": "genshinimpact.characters.charlotte.name_card.name",
+    "description": "genshinimpact.characters.charlotte.name_card.description"
+  },
+  "food": {
+    "id": 108612,
+    "name": "genshinimpact.characters.charlotte.food.name"
+  }
+}

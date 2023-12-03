@@ -1,0 +1,44 @@
+{
+  "id": 10000049,
+  "kid": "yoimiya",
+  "name": "genshinimpact.characters.yoimiya.name",
+  "title": "genshinimpact.characters.yoimiya.title",
+  "description": "genshinimpact.characters.yoimiya.description",
+  "rarity": 5,
+  "gender": "female",
+  "affiliation": "genshinimpact.characters.yoimiya.affiliation",
+  "constllation": "genshinimpact.characters.yoimiya.constllation",
+  "element": "pyro",
+  "weapon": "bow",
+  "birthday": "6/21",
+  "images": {
+    "card": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/card/yoimiya.png",
+    "face": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/face/yoimiya.png",
+    "side": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/side/yoimiya.png",
+    "gacha_card": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/gacha/card/yoimiya.png",
+    "gacha_splash": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/gacha/splash/yoimiya.png"
+  },
+  "cv": {
+    "zh": "金娜",
+    "en": "",
+    "jp": "",
+    "kr": ""
+  },
+  "hp_base": 791.255615234375,
+  "attack_base": 25.136999130249023,
+  "defense_base": 47.86399841308594,
+  "sort_id": 36,
+  "release_date": "2021-08-10",
+  "name_card": {
+    "id": 210082,
+    "background": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/background/yoimiya.png",
+    "profile": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/profile/yoimiya.png",
+    "icon": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/icon/yoimiya.png",
+    "name": "genshinimpact.characters.yoimiya.name_card.name",
+    "description": "genshinimpact.characters.yoimiya.name_card.description"
+  },
+  "food": {
+    "id": 108302,
+    "name": "genshinimpact.characters.yoimiya.food.name"
+  }
+}

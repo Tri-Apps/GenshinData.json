@@ -1,0 +1,44 @@
+{
+  "id": 10000030,
+  "kid": "zhongli",
+  "name": "genshinimpact.characters.zhongli.name",
+  "title": "genshinimpact.characters.zhongli.title",
+  "description": "genshinimpact.characters.zhongli.description",
+  "rarity": 5,
+  "gender": "male",
+  "affiliation": "genshinimpact.characters.zhongli.affiliation",
+  "constllation": "genshinimpact.characters.zhongli.constllation",
+  "element": "geo",
+  "weapon": "polearm",
+  "birthday": "12/31",
+  "images": {
+    "card": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/card/zhongli.png",
+    "face": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/face/zhongli.png",
+    "side": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/side/zhongli.png",
+    "gacha_card": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/gacha/card/zhongli.png",
+    "gacha_splash": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/gacha/splash/zhongli.png"
+  },
+  "cv": {
+    "zh": "彭博",
+    "en": "",
+    "jp": "",
+    "kr": ""
+  },
+  "hp_base": 1143.9840087890625,
+  "attack_base": 19.551000595092773,
+  "defense_base": 57.436798095703125,
+  "sort_id": 24,
+  "release_date": "2020-12-02",
+  "name_card": {
+    "id": 210044,
+    "background": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/background/zhongli.png",
+    "profile": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/profile/zhongli.png",
+    "icon": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/icon/zhongli.png",
+    "name": "genshinimpact.characters.zhongli.name_card.name",
+    "description": "genshinimpact.characters.zhongli.name_card.description"
+  },
+  "food": {
+    "id": 108173,
+    "name": "genshinimpact.characters.zhongli.food.name"
+  }
+}

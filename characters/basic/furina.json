@@ -1,0 +1,44 @@
+{
+  "id": 10000089,
+  "kid": "furina",
+  "name": "genshinimpact.characters.furina.name",
+  "title": "genshinimpact.characters.furina.title",
+  "description": "genshinimpact.characters.furina.description",
+  "rarity": 5,
+  "gender": "female",
+  "affiliation": "genshinimpact.characters.furina.affiliation",
+  "constllation": "genshinimpact.characters.furina.constllation",
+  "element": "hydro",
+  "weapon": "sword",
+  "birthday": "10/13",
+  "images": {
+    "card": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/card/furina.png",
+    "face": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/face/furina.png",
+    "side": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/side/furina.png",
+    "gacha_card": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/gacha/card/furina.png",
+    "gacha_splash": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/gacha/splash/furina.png"
+  },
+  "cv": {
+    "zh": "钱琛",
+    "en": "",
+    "jp": "",
+    "kr": ""
+  },
+  "hp_base": 1191.6500244140625,
+  "attack_base": 18.992399215698242,
+  "defense_base": 54.146148681640625,
+  "sort_id": 74,
+  "release_date": "2023-11-07",
+  "name_card": {
+    "id": 210180,
+    "background": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/background/furina.png",
+    "profile": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/profile/furina.png",
+    "icon": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/icon/furina.png",
+    "name": "genshinimpact.characters.furina.name_card.name",
+    "description": "genshinimpact.characters.furina.name_card.description"
+  },
+  "food": {
+    "id": 108611,
+    "name": "genshinimpact.characters.furina.food.name"
+  }
+}

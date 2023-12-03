@@ -1,0 +1,44 @@
+{
+  "id": 10000036,
+  "kid": "chongyun",
+  "name": "genshinimpact.characters.chongyun.name",
+  "title": "genshinimpact.characters.chongyun.title",
+  "description": "genshinimpact.characters.chongyun.description",
+  "rarity": 4,
+  "gender": "male",
+  "affiliation": "genshinimpact.characters.chongyun.affiliation",
+  "constllation": "genshinimpact.characters.chongyun.constllation",
+  "element": "cryo",
+  "weapon": "claymore",
+  "birthday": "9/7",
+  "images": {
+    "card": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/card/chongyun.png",
+    "face": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/face/chongyun.png",
+    "side": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/side/chongyun.png",
+    "gacha_card": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/gacha/card/chongyun.png",
+    "gacha_splash": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/gacha/splash/chongyun.png"
+  },
+  "cv": {
+    "zh": "kinsen",
+    "en": "",
+    "jp": "",
+    "kr": ""
+  },
+  "hp_base": 920.908935546875,
+  "attack_base": 18.698400497436523,
+  "defense_base": 54.36375045776367,
+  "sort_id": 11,
+  "release_date": "2020-09-15",
+  "name_card": {
+    "id": 210040,
+    "background": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/background/chongyun.png",
+    "profile": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/profile/chongyun.png",
+    "icon": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/icon/chongyun.png",
+    "name": "genshinimpact.characters.chongyun.name_card.name",
+    "description": "genshinimpact.characters.chongyun.name_card.description"
+  },
+  "food": {
+    "id": 108144,
+    "name": "genshinimpact.characters.chongyun.food.name"
+  }
+}

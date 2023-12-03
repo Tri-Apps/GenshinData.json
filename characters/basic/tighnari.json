@@ -1,0 +1,44 @@
+{
+  "id": 10000069,
+  "kid": "tighnari",
+  "name": "genshinimpact.characters.tighnari.name",
+  "title": "genshinimpact.characters.tighnari.title",
+  "description": "genshinimpact.characters.tighnari.description",
+  "rarity": 5,
+  "gender": "male",
+  "affiliation": "genshinimpact.characters.tighnari.affiliation",
+  "constllation": "genshinimpact.characters.tighnari.constllation",
+  "element": "dendro",
+  "weapon": "bow",
+  "birthday": "12/29",
+  "images": {
+    "card": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/card/tighnari.png",
+    "face": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/face/tighnari.png",
+    "side": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/side/tighnari.png",
+    "gacha_card": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/gacha/card/tighnari.png",
+    "gacha_splash": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/gacha/splash/tighnari.png"
+  },
+  "cv": {
+    "zh": "莫然",
+    "en": "",
+    "jp": "",
+    "kr": ""
+  },
+  "hp_base": 844.6415405273438,
+  "attack_base": 20.854400634765625,
+  "defense_base": 49.06060028076172,
+  "sort_id": 52,
+  "release_date": "2022-08-24",
+  "name_card": {
+    "id": 210124,
+    "background": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/background/tighnari.png",
+    "profile": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/profile/tighnari.png",
+    "icon": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/icon/tighnari.png",
+    "name": "genshinimpact.characters.tighnari.name_card.name",
+    "description": "genshinimpact.characters.tighnari.name_card.description"
+  },
+  "food": {
+    "id": 108436,
+    "name": "genshinimpact.characters.tighnari.food.name"
+  }
+}

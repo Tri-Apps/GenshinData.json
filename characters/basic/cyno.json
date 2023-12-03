@@ -1,0 +1,44 @@
+{
+  "id": 10000071,
+  "kid": "cyno",
+  "name": "genshinimpact.characters.cyno.name",
+  "title": "genshinimpact.characters.cyno.title",
+  "description": "genshinimpact.characters.cyno.description",
+  "rarity": 5,
+  "gender": "male",
+  "affiliation": "genshinimpact.characters.cyno.affiliation",
+  "constllation": "genshinimpact.characters.cyno.constllation",
+  "element": "electro",
+  "weapon": "polearm",
+  "birthday": "6/23",
+  "images": {
+    "card": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/card/cyno.png",
+    "face": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/face/cyno.png",
+    "side": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/side/cyno.png",
+    "gacha_card": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/gacha/card/cyno.png",
+    "gacha_splash": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/gacha/splash/cyno.png"
+  },
+  "cv": {
+    "zh": "李轻扬",
+    "en": "",
+    "jp": "",
+    "kr": ""
+  },
+  "hp_base": 972.3864135742188,
+  "attack_base": 24.76460075378418,
+  "defense_base": 66.88993835449219,
+  "sort_id": 55,
+  "release_date": "2022-09-27",
+  "name_card": {
+    "id": 210134,
+    "background": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/background/cyno.png",
+    "profile": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/profile/cyno.png",
+    "icon": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/icon/cyno.png",
+    "name": "genshinimpact.characters.cyno.name_card.name",
+    "description": "genshinimpact.characters.cyno.name_card.description"
+  },
+  "food": {
+    "id": 108467,
+    "name": "genshinimpact.characters.cyno.food.name"
+  }
+}

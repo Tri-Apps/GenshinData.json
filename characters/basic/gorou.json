@@ -1,0 +1,44 @@
+{
+  "id": 10000055,
+  "kid": "gorou",
+  "name": "genshinimpact.characters.gorou.name",
+  "title": "genshinimpact.characters.gorou.title",
+  "description": "genshinimpact.characters.gorou.description",
+  "rarity": 4,
+  "gender": "male",
+  "affiliation": "genshinimpact.characters.gorou.affiliation",
+  "constllation": "genshinimpact.characters.gorou.constllation",
+  "element": "geo",
+  "weapon": "bow",
+  "birthday": "5/18",
+  "images": {
+    "card": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/card/gorou.png",
+    "face": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/face/gorou.png",
+    "side": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/side/gorou.png",
+    "gacha_card": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/gacha/card/gorou.png",
+    "gacha_splash": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/gacha/splash/gorou.png"
+  },
+  "cv": {
+    "zh": "杨昕燃",
+    "en": "",
+    "jp": "",
+    "kr": ""
+  },
+  "hp_base": 802.3760986328125,
+  "attack_base": 15.31488037109375,
+  "defense_base": 54.36375045776367,
+  "sort_id": 42,
+  "release_date": "2021-12-14",
+  "name_card": {
+    "id": 210104,
+    "background": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/background/gorou.png",
+    "profile": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/profile/gorou.png",
+    "icon": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/icon/gorou.png",
+    "name": "genshinimpact.characters.gorou.name_card.name",
+    "description": "genshinimpact.characters.gorou.name_card.description"
+  },
+  "food": {
+    "id": 108365,
+    "name": "genshinimpact.characters.gorou.food.name"
+  }
+}

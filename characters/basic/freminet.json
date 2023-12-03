@@ -1,0 +1,44 @@
+{
+  "id": 10000085,
+  "kid": "freminet",
+  "name": "genshinimpact.characters.freminet.name",
+  "title": "genshinimpact.characters.freminet.title",
+  "description": "genshinimpact.characters.freminet.description",
+  "rarity": 4,
+  "gender": "male",
+  "affiliation": "genshinimpact.characters.freminet.affiliation",
+  "constllation": "genshinimpact.characters.freminet.constllation",
+  "element": "cryo",
+  "weapon": "claymore",
+  "birthday": "9/24",
+  "images": {
+    "card": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/card/freminet.png",
+    "face": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/face/freminet.png",
+    "side": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/side/freminet.png",
+    "gacha_card": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/gacha/card/freminet.png",
+    "gacha_splash": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/gacha/splash/freminet.png"
+  },
+  "cv": {
+    "zh": "锦鲤",
+    "en": "",
+    "jp": "",
+    "kr": ""
+  },
+  "hp_base": 1012.0880126953125,
+  "attack_base": 21.369600296020508,
+  "defense_base": 59.39955139160156,
+  "sort_id": 70,
+  "release_date": "2023-09-05",
+  "name_card": {
+    "id": 210167,
+    "background": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/background/freminet.png",
+    "profile": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/profile/freminet.png",
+    "icon": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/icon/freminet.png",
+    "name": "genshinimpact.characters.freminet.name_card.name",
+    "description": "genshinimpact.characters.freminet.name_card.description"
+  },
+  "food": {
+    "id": 108563,
+    "name": "genshinimpact.characters.freminet.food.name"
+  }
+}

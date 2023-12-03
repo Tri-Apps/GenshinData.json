@@ -1,0 +1,40 @@
+{
+  "id": 10000052,
+  "kid": "raiden_shogun",
+  "name": "genshinimpact.characters.raiden_shogun.name",
+  "title": "genshinimpact.characters.raiden_shogun.title",
+  "description": "genshinimpact.characters.raiden_shogun.description",
+  "rarity": 5,
+  "gender": "female",
+  "affiliation": "genshinimpact.characters.raiden_shogun.affiliation",
+  "constllation": "genshinimpact.characters.raiden_shogun.constllation",
+  "element": "electro",
+  "weapon": "polearm",
+  "birthday": "6/26",
+  "images": {
+    "card": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/card/raiden_shogun.png",
+    "face": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/face/raiden_shogun.png",
+    "side": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/side/raiden_shogun.png",
+    "gacha_card": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/gacha/card/raiden_shogun.png",
+    "gacha_splash": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/gacha/splash/raiden_shogun.png"
+  },
+  "cv": {
+    "zh": "菊花花",
+    "en": "",
+    "jp": "",
+    "kr": ""
+  },
+  "hp_base": 1004.7992553710938,
+  "attack_base": 26.254199981689453,
+  "defense_base": 61.445411682128906,
+  "sort_id": 39,
+  "release_date": "2021-09-01",
+  "name_card": {
+    "id": 210092,
+    "background": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/background/raiden_shogun.png",
+    "profile": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/profile/raiden_shogun.png",
+    "icon": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/icon/raiden_shogun.png",
+    "name": "genshinimpact.characters.raiden_shogun.name_card.name",
+    "description": "genshinimpact.characters.raiden_shogun.name_card.description"
+  }
+}

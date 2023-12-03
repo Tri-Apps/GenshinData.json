@@ -1,0 +1,32 @@
+{
+  "id": 10000007,
+  "kid": "lumine",
+  "name": "genshinimpact.characters.lumine.name",
+  "title": "genshinimpact.characters.lumine.title",
+  "description": "genshinimpact.characters.lumine.description",
+  "rarity": 5,
+  "gender": "female",
+  "affiliation": "genshinimpact.characters.lumine.affiliation",
+  "constllation": "genshinimpact.characters.lumine.constllation",
+  "element": "none",
+  "weapon": "sword",
+  "birthday": "",
+  "images": {
+    "card": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/card/lumine.png",
+    "face": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/face/lumine.png",
+    "side": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/side/lumine.png",
+    "gacha_card": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/gacha/card/lumine.png",
+    "gacha_splash": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/gacha/splash/lumine.png"
+  },
+  "cv": {
+    "zh": "宴宁\u0026多多poi",
+    "en": "",
+    "jp": "",
+    "kr": ""
+  },
+  "hp_base": 911.791015625,
+  "attack_base": 17.808000564575195,
+  "defense_base": 57.224998474121094,
+  "sort_id": 0,
+  "release_date": "0001-01-01"
+}

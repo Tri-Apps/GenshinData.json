@@ -1,0 +1,44 @@
+{
+  "id": 10000063,
+  "kid": "shenhe",
+  "name": "genshinimpact.characters.shenhe.name",
+  "title": "genshinimpact.characters.shenhe.title",
+  "description": "genshinimpact.characters.shenhe.description",
+  "rarity": 5,
+  "gender": "female",
+  "affiliation": "genshinimpact.characters.shenhe.affiliation",
+  "constllation": "genshinimpact.characters.shenhe.constllation",
+  "element": "cryo",
+  "weapon": "polearm",
+  "birthday": "3/10",
+  "images": {
+    "card": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/card/shenhe.png",
+    "face": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/face/shenhe.png",
+    "side": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/side/shenhe.png",
+    "gacha_card": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/gacha/card/shenhe.png",
+    "gacha_splash": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/gacha/splash/shenhe.png"
+  },
+  "cv": {
+    "zh": "秦紫翼",
+    "en": "",
+    "jp": "",
+    "kr": ""
+  },
+  "hp_base": 1011.4725341796875,
+  "attack_base": 23.64739990234375,
+  "defense_base": 64.61640167236328,
+  "sort_id": 45,
+  "release_date": "2022-01-05",
+  "name_card": {
+    "id": 210107,
+    "background": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/background/shenhe.png",
+    "profile": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/profile/shenhe.png",
+    "icon": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/icon/shenhe.png",
+    "name": "genshinimpact.characters.shenhe.name_card.name",
+    "description": "genshinimpact.characters.shenhe.name_card.description"
+  },
+  "food": {
+    "id": 108372,
+    "name": "genshinimpact.characters.shenhe.food.name"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": 10000057,
+  "kid": "arataki_itto",
+  "name": "genshinimpact.characters.arataki_itto.name",
+  "title": "genshinimpact.characters.arataki_itto.title",
+  "description": "genshinimpact.characters.arataki_itto.description",
+  "rarity": 5,
+  "gender": "male",
+  "affiliation": "genshinimpact.characters.arataki_itto.affiliation",
+  "constllation": "genshinimpact.characters.arataki_itto.constllation",
+  "element": "geo",
+  "weapon": "claymore",
+  "birthday": "6/1",
+  "images": {
+    "card": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/card/arataki_itto.png",
+    "face": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/face/arataki_itto.png",
+    "side": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/avatar/side/arataki_itto.png",
+    "gacha_card": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/gacha/card/arataki_itto.png",
+    "gacha_splash": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/gacha/splash/arataki_itto.png"
+  },
+  "cv": {
+    "zh": "刘照坤",
+    "en": "",
+    "jp": "",
+    "kr": ""
+  },
+  "hp_base": 1000.9860229492188,
+  "attack_base": 17.68899917602539,
+  "defense_base": 74.66783905029297,
+  "sort_id": 43,
+  "release_date": "2021-12-14",
+  "name_card": {
+    "id": 210105,
+    "background": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/background/arataki_itto.png",
+    "profile": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/profile/arataki_itto.png",
+    "icon": "https://cdn.hoyobox.dev/static/images/genshinimpact/character/namecard/icon/arataki_itto.png",
+    "name": "genshinimpact.characters.arataki_itto.name_card.name",
+    "description": "genshinimpact.characters.arataki_itto.name_card.description"
+  },
+  "food": {
+    "id": 108364,
+    "name": "genshinimpact.characters.arataki_itto.food.name"
+  }
+}
